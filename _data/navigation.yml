@@ -1,0 +1,34 @@
+##- title: Start
+##  url: "/"
+##  side: right
+
+
+## Note: use Redirect Page for external site links
+
+- title: About
+  url: "/about/"
+  side: right
+
+- title: Learn
+  url: "/"
+  side: right
+
+- title: Lessons
+  url: "/lessons/"
+  side: right
+
+- title: Resources
+  url: "/resources/"
+  side: right
+
+- title: Contributors
+  url: "/contributors/"
+  side: right
+
+- title: Events
+  url: "/events/"
+  side: right
+
+- title: Search
+  url: "/search/"
+  side: right

@@ -1,0 +1,25 @@
+- menu_name: "Links"
+
+- name: "NeuroTechX"
+  url: "http://www.neurotechx.com/"
+  title: "NeuroTechX"
+
+- name: "Slack"
+  url: "https://neurotechx.herokuapp.com/"
+  title: "Slack"
+
+- name: "Committee"
+  url: "http://neurotechx.com/opportunities/edu-committee.html"
+  title: "Committee"
+
+- name: "Github"
+  url: "https://github.com/NeuroTechX/learn.neurotechedu.com"
+  title: "Github"
+
+- name: "README"
+  url: "https://github.com/NeuroTechX/learn.neurotechedu.com/blob/gh-pages/README.md"
+  title: "README"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google webmaster tools"
