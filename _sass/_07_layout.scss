@@ -69,9 +69,9 @@ body.video cite { color: #fff; }
 /* the logobox is used to fix the logo to nav menu */
 #logobox {
   display: inline-block;
-  max-width: 210px;
+  max-width: 55px;
   position: absolute;
-  margin-left: 30px;
+  margin-left: 15px;
   z-index: 999;
 }
 
@@ -133,9 +133,6 @@ body.video cite { color: #fff; }
 
 @media #{$medium-only} {
   /* the logobox is used to fix the logo to nav menu */
-  #logobox {
-    max-width: 25%;
-  }
 
     #logo img {
         margin-top: 0px;

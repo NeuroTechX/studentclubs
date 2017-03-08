@@ -5,8 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: "earth.jpg"
+header: no
 
 widget1:
   title: "Lessons"

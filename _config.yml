@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'NeurotechEDU'
+title: 'Student Clubs - NeurotechX'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Educational Materials for Neurotechnology'
@@ -21,16 +21,16 @@ credits: '<!--<p>Created by <a href="http://creative-saga.com/" target="_blank">
 
 # Main author of the website
 # See > authors.yml
-author: NeurotechEDU
+author: NeurotechX
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://neurotechx.github.io'
-baseurl: '/learn.neurotechedu.com'
+baseurl: '/studentclubs'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/NeuroTechX/learn.neurotechedu.com/tree/gh-pages/
+improve_content: https://github.com/NeuroTechX/studentclubs/tree/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -42,7 +42,7 @@ urlimg: 'http://learn.neurotechedu.com/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "EDULogoNew600.png"
+logo: "ntx_blue_1500.png"
 
 # Gems
 gems:
