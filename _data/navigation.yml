@@ -13,14 +13,10 @@
   url: "/blog/"
   side: right
 
-- title: Lessons
-  url: "/lessons/"
+- title: Clubs
+  url: "/clubs/"
   side: right
 
-- title: Contributors
-  url: "/contributors/"
-  side: right
-
-- title: Events
-  url: "/events/"
+- title: Search
+  url: "/search/"
   side: right

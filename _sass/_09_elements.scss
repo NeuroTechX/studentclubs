@@ -173,22 +173,21 @@ img.lazy {
 
 /* Styling for Contributors page
 ------------------------------------------------------------------- */
-.contributor {margin-bottom: 55px;}
-.contributor h5 {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+.contributor {
+  font-size: 1.5em;
 }
-.contributor p {
-  margin: 0;
+.contributor img {
+  display: block;
+    max-width: 100%;
+    height: auto;
 }
-.contributor a {
-  border: none;
-  font-size: 1.7em;
-  margin-right: 4%;
+.contributor img:hover {
+  -webkit-box-shadow: 0 0 5px blue;
+        box-shadow: 0 0 5px blue;
+  transition: box-shadow 0.3s;
 }
-.contributor a:hover {
-  border: none;
-  color: $nrt-4;
+.contributor td {
+  width: 30%;
 }
 
 
