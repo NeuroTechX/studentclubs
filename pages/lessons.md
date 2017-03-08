@@ -4,8 +4,7 @@ show_meta: false
 title: "Lessons & Modules"
 subheadline: ""
 teaser: "Here you can find our educational content grouped by related clusters. It is a more structured path into Neurotech material, they are designed to give you a more cohesive entry point."
-header:
-  image_fullwidth: ""
+header: no
 permalink: "/lessons/"
 ---
 
@@ -21,9 +20,9 @@ permalink: "/lessons/"
     Lastly, the module gives an overview of the kinds of applications neurotechnology has.
     </div>
     <ul class="" style="padding-left:60px">
-      <li class="section"><a href="http://learn.neurotechedu.com/projects/">Projects to get started</a></li>
-      <li  class="section"><a href="http://learn.neurotechedu.com/headsets/">Headsets</a></li>
-      <li class="section"><a href="http://learn.neurotechedu.com/applications/">Applications</a></li>
+      <li class="section"><a href="/studentclubs/projects/">Projects to get started</a></li>
+      <li  class="section"><a href="/studentclubs/headsets/">Headsets</a></li>
+      <li class="section"><a href="/studentclubs/applications/">Applications</a></li>
     </ul>
   </div>
 </div>

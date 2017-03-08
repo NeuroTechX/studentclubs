@@ -12,14 +12,12 @@ widget1:
   url: '/lessons/'
   image: openBCI-303x182.jpg
   text: 'This page features learning materials grouped by category and give you an insight into learning tracks.'
-widget2:
 
+widget2:
   title: "Resources"
   url: '/resources/'
   image: hardware.jpg
   text: 'This list of resources is non-exhaustive. If you find something which you think should be included, please add it!'
-
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 
 widget3:
   title: "How to Contribute"
@@ -50,9 +48,10 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+# Why Should You Participate?
+
+Neurotechnology has never been this accessible before. We want to catalyze the interest and involvement of skilled students by providing them with a precise goal to work towards and the resources to get there.
+
+The NeuroTechX Student Club Competition promotes interdisciplinary collaboration, preparing the participants for careers and excellence in science, technology, engineering and mathematics (STEM) through self-learning, knowledge sharing, and practical experimentation.
+
+We believe neurotechnology is key to better understanding and to improving who we are. We aim to inspire a whole new generation of neuroengineers, who will be equipped to drive the field forward.
