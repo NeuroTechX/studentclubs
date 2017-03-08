@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header: no
+header:
+    image_fullwidth: "neurons.jpg"
 
 widget1:
   title: "Lessons"
@@ -48,7 +49,7 @@ permalink: /index.html
 homepage: true
 ---
 
-# Why Should You Participate?
+# Why NeuroTech Student Clubs
 
 Neurotechnology has never been this accessible before. We want to catalyze the interest and involvement of skilled students by providing them with a precise goal to work towards and the resources to get there.
 
