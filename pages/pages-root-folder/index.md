@@ -9,23 +9,22 @@ header:
     image_fullwidth: "neurons.jpg"
 
 widget1:
-  title: "Lessons"
-  url: '/lessons/'
+  title: "Get Started"
+  url: '/get-started/'
   image: openBCI-303x182.jpg
-  text: 'This page features learning materials grouped by category and give you an insight into learning tracks.'
+  text: 'Get on the right track toward making your own Student Club.'
 
 widget2:
-  title: "Resources"
-  url: '/resources/'
+  title: "Clubs"
+  url: '/clubs/'
   image: hardware.jpg
-  text: 'This list of resources is non-exhaustive. If you find something which you think should be included, please add it!'
+  text: 'Learn about the Student Clubs currently involved with NeuroTechX.'
 
 widget3:
-  title: "How to Contribute"
-  url: 'https://github.com/NeuroTechX/learn.neurotechedu.com/blob/gh-pages/README.md'
+  title: "FAQ"
+  url: '/FAQ/'
   image: community.jpg
-  text: '<a href="https://github.com/NeuroTechX/learn.neurotechedu.com">Click</a> to contribute to our Github page directly. You may also choose to join the <a href="http://neurotechx.com/opportunities/edu-committee.html">NeurotechX committee</a> or
-<a href="https://neurotechx.herokuapp.com/">our Slack group</a>.'
+  text: 'See here for a list of Frequently Asked Questions.'
 #
 # Use the call for action to show a button on the frontpage
 #

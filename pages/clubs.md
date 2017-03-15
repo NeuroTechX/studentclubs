@@ -6,6 +6,7 @@ permalink: "/clubs/"
 header: no
 ---
 <div class ="contributor" markdown="1">
+
 :---: | :---: | :---:
 [![SynapsETS]({{ site.url }}{{ site.baseurl }}/images/synap_ets.png "École de Technologie Supérieure")](http://synapsets.etsmtl.ca/) | [![NeuroTechUofT]({{ site.url }}{{ site.baseurl }}/images/neurotechuoft_dark.png "University of Toronto")](https://www.ulife.utoronto.ca/organizations/view/id/126750)
 SynapsETS - École de Technologie Supérieure | NeuroTechUofT - University of Toronto
