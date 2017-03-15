@@ -9,12 +9,24 @@
   url: "/"
   side: right
 
-- title: Blog
+- title: Get Started
+  url: "/get-started/"
+  side: right
+
+- title: News
   url: "/blog/"
   side: right
 
 - title: Clubs
   url: "/clubs/"
+  side: right
+
+- title: Events
+  url: "/events/"
+  side: right
+
+- title: FAQ
+  url: "/FAQ/"
   side: right
 
 - title: Search
