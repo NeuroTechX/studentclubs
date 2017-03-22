@@ -20,4 +20,8 @@ BSYS - Concordia University | Polycortex - Polytechnique de Montréal | MENTAL -
 [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
 Placeholder | Placeholder #2 | Placeholder #3
 
+--- | --- | ---
+[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
+Placeholder #4 | Placeholder #5 | Placeholder #6
+
 </div>
