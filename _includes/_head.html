@@ -28,22 +28,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css">
   {% endif %}
 
-	<script>
-	var acc = document.getElementsByClassName("accordion");
-	var i;
 
-	for (i = 0; i < acc.length; i++) {
-	  acc[i].onclick = function() {
-	    this.classList.toggle("active");
-	    var panel = this.nextElementSibling;
-	    if (panel.style.maxHeight){
-	      panel.style.maxHeight = null;
-	    } else {
-	      panel.style.maxHeight = panel.scrollHeight + "px";
-	    }
-	  }
-	}
-	</script>
 
 	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
 

@@ -5,11 +5,10 @@ title: "Frequently Asked Questions"
 header: no
 permalink: "/FAQ/"
 ---
+{::nomarkdown}
 
 <button class="accordion">Do we have to call our student club NeuroTech[something] like most of NeuroTechX initiatives and chapters?</button>
-<div class="panel">
-  <p>No. We actually discourage you to name your student club with “NeuroTech” in it, as cities Chapters are named NeuroTech[City]. Be original!</p>
-</div>
+<div class="panel"><p>No. We actually discourage you to name your student club with “NeuroTech” in it, as cities Chapters are named NeuroTech[City]. Be original!</p></div>
 
 <button class="accordion">We have our own project we’d like to work on, can we pick our own projects?</button>
 <div class="panel">
@@ -51,6 +50,8 @@ permalink: "/FAQ/"
  <p>Yes, you can register as a student group. Make sure your university agrees for you to use its name.</p>
 </div>
 
+{:/nomarkdown}
+
 ## Contact
 **I need information about the Student Club Initiative:**
 Benjamin De Leener (Chair) - benjamindeleener@neurotechx.com
@@ -60,3 +61,21 @@ Nicomaque Jette (Student Club Guru) - nico@neurotechx.com
 
 **I just need to talk:**
 Yannick Roy (Nobody) - yannick@neurotechx.com
+
+<!-- javascript for FAQ page accordion -->
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].onclick = function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  }
+}
+</script>
