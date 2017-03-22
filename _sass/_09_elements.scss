@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* TOC
 
+- Get Started page (no markdown)
 - Table of Contents (Index)
 - Panel
 - Shadows
@@ -13,14 +14,20 @@
 - Frontpage Widget
 - Custom Table of Contents style
 - Icons
-- Modules
 - Contribution div
 - Feedback div
 - Accordion (FAQ page)
 
 */
 
-
+/* Get Started page (no markdown)
+------------------------------------------------------------------- */
+div.get-started .columns {
+  margin-bottom: 50px;
+}
+div.get-started h4 {
+  margin: 0;
+}
 
 /* Table of Contents (Index)
 ------------------------------------------------------------------- */
@@ -197,59 +204,6 @@ img.lazy {
 }
 
 
-/* Styling for Module DIVs
-------------------------------------------------------------------- */
-
-.module{
-  margin:30px auto 30px auto;
-}
-
-  .module .number{
-    background-color:#0094ff;
-    color:white;
-    font-weight:600;
-  }
-
-  .module .box{
-    background-color: $grey-1;
-    border:1px solid #334D5C;
-    border-radius:0 30px 30px 30px;
-    padding:0;
-  }
-
-  .module h4{
-    margin:0px;
-    font-weight:100;
-    border-radius:0 30px 0px 0px;
-    text-transform:uppercase;
-    padding: 10px;
-    background-color:#334D5C;
-    color:white;
-  }
-
-  .module .section{
-    font-size: 1.1em;
-    font-weight:100;
-    margin-top: 10px;
-  }
-
-  .module .section a{
-    font-size: 1.1em;
-    font-weight:100;
-  }
-    .module .section a:hover{
-      background:#c4c4c4;
-
-  }
-
-   .module .section a:active{}
-
-
-.moduledescription{
-  color:black;
-  padding: 8px 25px 8px 25px;
-  font-weight: 100;
-}
 
 /* Contribute to our Project, Git Hub link
 ------------------------------------------------------------------- */
