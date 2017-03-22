@@ -28,17 +28,22 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css">
   {% endif %}
 
-	<!-- Hotjar Tracking Code for http://learn.neurotechedu.com/ -->
-<script>
-   (function(h,o,t,j,a,r){
-       h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-       h._hjSettings={hjid:405194,hjsv:5};
-       a=o.getElementsByTagName('head')[0];
-       r=o.createElement('script');r.async=1;
-       r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-       a.appendChild(r);
-   })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].onclick = function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.maxHeight){
+	      panel.style.maxHeight = null;
+	    } else {
+	      panel.style.maxHeight = panel.scrollHeight + "px";
+	    }
+	  }
+	}
+	</script>
 
 	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
 
@@ -55,7 +60,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700" rel="stylesheet" type='text/css'>
 
 	</noscript>
-	
+
 	<!-- Jekyll Tipue Search -->
 	{% if page.title == "Search" %}
 	<link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
