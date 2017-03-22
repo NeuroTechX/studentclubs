@@ -6,32 +6,50 @@ header: no
 permalink: "/FAQ/"
 ---
 
-### Do we have to call our student club NeuroTech[something] like most of NeuroTechX initiatives and chapters?
-No. We actually discourage you to name your student club with “NeuroTech” in it, as cities Chapters are named NeuroTech[City]. Be original!
+<button class="accordion">Do we have to call our student club NeuroTech[something] like most of NeuroTechX initiatives and chapters?</button>
+<div class="panel">
+  <p>No. We actually discourage you to name your student club with “NeuroTech” in it, as cities Chapters are named NeuroTech[City]. Be original!</p>
+</div>
 
-### We have our own project we’d like to work on, can we pick our own projects?
-Of course! The competition has two types of challenges: a fixed and an open challenge. We encourage you to explore what you’d like!
+<button class="accordion">We have our own project we’d like to work on, can we pick our own projects?</button>
+<div class="panel">
+  <p>Of course! The competition has two types of challenges: a fixed and an open challenge. We encourage you to explore what you’d like!</p>
+</div>
 
-### We are not an “official” student club recognized by our university, can we still be part of NeuroTechX Student Club Initiative and Competitions?
-Yes! All you need is a written confirmation from your university that we can use the university name and logo when referring to your group.
+<button class="accordion">We are not an “official” student club recognized by our university, can we still be part of NeuroTechX Student Club Initiative and Competitions?</button>
+<div class="panel">
+  <p>Yes! All you need is a written confirmation from your university that we can use the university name and logo when referring to your group.</p>
+</div>
 
-### Wow! I want to join, where do I start?
-Follow the step at the [Get Started](/studentclubs/get-started/) page and reach out to us!
+<button class="accordion">Wow! I want to join, where do I start?</button>
+<div class="panel">
+ <p>Follow the step at the [Get Started](/studentclubs/get-started/) page and reach out to us!</p>
+</div>
 
-### I’m a graduate student, can I participate?
-The competition is for undergraduate students only, but you can still act as a mentor for your university club!
+<button class="accordion">I’m a graduate student, can I participate?</button>
+<div class="panel">
+ <p>The competition is for undergraduate students only, but you can still act as a mentor for your university club!</p>
+</div>
 
-### I am not a University student (ex: Cegep), can I create a club?
-Unfortunately, the competition is only for university students. Please reach out to us if you want to get involved into creating new types of competition.
+<button class="accordion">I am not a University student (ex: Cegep), can I create a club?</button>
+<div class="panel">
+ <p>Unfortunately, the competition is only for university students. Please reach out to us if you want to get involved into creating new types of competition.</p>
+</div>
 
-### Do we need graduate students or professors in our group?
-No, but graduate students and professors may help you getting started.
+<button class="accordion">Do we need graduate students or professors in our group?</button>
+<div class="panel">
+ <p>No, but graduate students and professors may help you getting started.</p>
+</div>
 
-### There is already a student club at my university, but I don’t like them (or what they work on), can I start another club?
-Yes, however you are strongly encouraged to support your home university’s student club. Please reach out to us if such a need
+<button class="accordion">There is already a student club at my university, but I don’t like them (or what they work on), can I start another club?</button>
+<div class="panel">
+ <p>Yes, however you are strongly encouraged to support your home university’s student club. Please reach out to us if such a need</p>
+</div>
 
-### My university doesn’t have “student clubs”, can we still join?
-Yes, you can register as a student group. Make sure your university agrees for you to use its name.
+<button class="accordion">My university doesn’t have “student clubs”, can we still join?</button>
+<div class="panel">
+ <p>Yes, you can register as a student group. Make sure your university agrees for you to use its name.</p>
+</div>
 
 ## Contact
 **I need information about the Student Club Initiative:**
@@ -42,3 +60,20 @@ Nicomaque Jette (Student Club Guru) - nico@neurotechx.com
 
 **I just need to talk:**
 Yannick Roy (Nobody) - yannick@neurotechx.com
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].onclick = function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  }
+}
+</script>
