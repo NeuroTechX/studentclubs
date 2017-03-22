@@ -22,7 +22,7 @@ permalink: "/FAQ/"
 
 <button class="accordion">Wow! I want to join, where do I start?</button>
 <div class="panel">
- <p>Follow the step at the [Get Started](/studentclubs/get-started/) page and reach out to us!</p>
+ <p>Follow the step at the <a href="{{ site.url }}{{ site.baseurl }}/get-started/">Get Started</a> page and reach out to us!</p>
 </div>
 
 <button class="accordion">I’m a graduate student, can I participate?</button>

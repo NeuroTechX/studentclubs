@@ -16,6 +16,7 @@
 - Modules
 - Contribution div
 - Feedback div
+- Accordion (FAQ page)
 
 */
 
@@ -173,13 +174,16 @@ img.lazy {
 
 /* Styling for Contributors page
 ------------------------------------------------------------------- */
-.contributor {
+.contributor table {
   font-size: 1.5em;
+  width: 100%;
 }
 .contributor img {
   display: block;
-    max-width: 100%;
-    height: auto;
+  max-width: 300px;
+  max-height: 200px;
+  margin: 0 auto;
+  padding: 10px 10px;
 }
 .contributor img:hover {
   -webkit-box-shadow: 0 0 5px blue;
@@ -188,6 +192,8 @@ img.lazy {
 }
 .contributor td {
   width: 30%;
+  margin-right: 3%;
+  text-align:center;
 }
 
 
