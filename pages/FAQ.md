@@ -2,8 +2,7 @@
 layout: page
 show_meta: false
 title: "Frequently Asked Questions"
-header:
-   image_fullwidth: "earth.jpg"
+header: no
 permalink: "/FAQ/"
 ---
 

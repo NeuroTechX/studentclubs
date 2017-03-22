@@ -3,8 +3,7 @@ layout: page
 show_meta: false
 title: "NeuroTechX Student Clubs"
 subheadline: "Get Started"
-header:
-   image_fullwidth: "earth.jpg"
+header: no
 permalink: "/get-started/"
 ---
 
