@@ -288,18 +288,18 @@ button.accordion.active, button.accordion:hover {
 }
 
 /* Style the accordion panel. Note: hidden by default */
-div.panel {
+div.droppanel {
     padding: 0 18px;
     background-color: white;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
 }
-div.panel p {
+div.droppanel p {
   padding: 7px;
 }
 
-button.accordion:after {
+button.accordion:before {
     content: '\02795'; /* Unicode character for "plus" sign (+) */
     font-size: 13px;
     color: #777;
@@ -307,6 +307,6 @@ button.accordion:after {
     margin-left: 5px;
 }
 
-button.accordion.active:after {
+button.accordion.active:before {
     content: "\2796"; /* Unicode character for "minus" sign (-) */
 }

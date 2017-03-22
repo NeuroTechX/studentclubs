@@ -21,28 +21,3 @@ BSYS - Concordia University | Polycortex - Polytechnique de Montréal | MENTAL -
 Placeholder | Placeholder #2 | Placeholder #3
 
 </div>
-
-<!--
-<table class="contributor">
-<tr>
-  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/synap_ets.png" alt="SynapsETS"> </td>
-  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/neurotechuoft_dark.png" alt="NeuroTechUofT"> </td>
-  <td></td>
-</tr>
-<tr>
-  <td>SynapsETS - École de Technologie Supérieure</td>
-  <td>NeuroTechUofT - University of Toronto</td>
-  <td></td>
-</tr>
-<tr>
-  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/bsys_concordia.png" alt="BSys Concordia"> </td>
-  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poly_cortex.png" alt="PolyCortex"> </td>
-  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/MENTAL2.png" alt="MENTAL"> </td>
-</tr>
-<tr>
-  <td>BSYS - Concordia University</td>
-  <td>Polycortex - Polytechnique de Montréal</td>
-  <td>MENTAL - McGill University</td>
-</tr>
-</table>
--->

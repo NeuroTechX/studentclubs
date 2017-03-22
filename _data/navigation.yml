@@ -21,12 +21,12 @@
   url: "/clubs/"
   side: right
 
-- title: Events
-  url: "/events/"
-  side: right
-
 - title: FAQ
   url: "/FAQ/"
+  side: right
+  
+- title: Contact
+  url: "/contact/"
   side: right
 
 - title: Search
