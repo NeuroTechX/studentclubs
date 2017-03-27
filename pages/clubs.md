@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+show_meta: false
 title: "Clubs"
 teaser: "Student clubs who are currently participating."
 permalink: "/clubs/"
