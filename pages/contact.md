@@ -8,12 +8,12 @@ header: no
 
 | I need information about the Student Club Initiative |
 | :---: |
-| Benjamin De Leener (Chair) - benjamindeleener@neurotechx.com |
+| Benjamin De Leener (Chair) - benjamindeleener [at] neurotechx.com |
 
 | I need help with technical stuff |
 | :---: |
-| Nicomaque Jette (Student Club Guru) - nico@neurotechx.com |
+| Nicomaque Jette (Student Club Guru) - nico [at] neurotechx.com |
 
 | I just need to talk |
 | :---: |
-| Yannick Roy (Nobody) - yannick@neurotechx.com |
+| Yannick Roy (No role) - yannick [at] neurotechx.com |
