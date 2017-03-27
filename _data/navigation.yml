@@ -21,6 +21,14 @@
   url: "/clubs/"
   side: right
 
+- title: Competition
+  url: "/competition/"
+  side: right
+
+- title: Partners
+  url: "/parners/"
+  side: right
+
 - title: FAQ
   url: "/FAQ/"
   side: right
