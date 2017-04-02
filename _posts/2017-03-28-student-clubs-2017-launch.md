@@ -17,7 +17,7 @@ header:
 
 <figure>
    <a href="https://medium.com/neurotechx/ntx-student-clubs-initiative-2fba98b0d082#.s2kll01k4">
-   <img src="http://neurotechx.com/img/student_clubs/CheeringShot_DemoDay.gif" style="max-width: 200px;"
+   <img src="http://neurotechx.com/img/student_clubs/CheeringShot_DemoDay.gif"
       alt="Student Clubs - Demo Day 2016" />
       </a>
    <figcaption>Student Clubs - Demo Day 2016</figcaption>

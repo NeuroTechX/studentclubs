@@ -5,9 +5,9 @@ title: "Student clubs 2016 - Demo Day Video"
 subheadline: "DemoDayVideo"
 teaser: "If you want to know what happened during 2016 edition!"
 tags:
-    - post format
+    - Demo Day
 categories:
-    - design
+    - news
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/D00yRmY3dBg' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
@@ -26,10 +26,6 @@ video:
 ---
 <!--more-->
 
-## NeuroTechX Student Clubs 2016 Demo Day
-
 > NeuroTechX SC 2016 Demo Day!
-
-
 
 Source: [NeuroTechX SC 2016 Demo Day Video!](https://www.youtube.com/watch?v=D00yRmY3dBg)
