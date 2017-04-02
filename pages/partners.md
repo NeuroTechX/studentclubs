@@ -13,7 +13,7 @@ header: no
 [![OpenBCI]({{ site.url }}{{ site.baseurl }}/images/partners/OpenBCI.png "OpenBCI")](http://www.openbci.com) | [![InteraXon]({{ site.url }}{{ site.baseurl }}/images/partners/Muse.png "Muse - InteraXon")](http://choosemuse.com/) | [![NeuroSky]({{ site.url }}{{ site.baseurl }}/images/partners/Neurosky.png "NeuroSky")](http://www.neurosky.com)
 OpenBCI | InteraXon | Neurosky
 
-| --- |
+--- |
 [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://www.NeuroTechX.com)
 NeuroTechX
 
