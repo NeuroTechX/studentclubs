@@ -7,7 +7,7 @@ permalink: "/clubs/"
 header: no
 ---
 
-<div class ="contributor" markdown="1">
+<div class="contributor" markdown="1">
 
 --- | --- | ---
 [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started) | [![SynapsETS]({{ site.url }}{{ site.baseurl }}/images/synap_ets.png "École de Technologie Supérieure")](http://synapsets.etsmtl.ca/) | [![NeuroTechUofT]({{ site.url }}{{ site.baseurl }}/images/neurotechuoft_dark.png "University of Toronto")](https://www.ulife.utoronto.ca/organizations/view/id/126750)
@@ -19,10 +19,10 @@ BSYS - Concordia University | Polycortex - Polytechnique de Montréal | MENTAL -
 
 --- | --- | ---
 [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
-Placeholder | Placeholder #2 | Placeholder #3
+Maction Potential - McMaster University | SEARCH - Carleton University | MINT - University of British Columbia
 
 --- | --- | ---
 [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
-Placeholder #4 | Placeholder #5 | Placeholder #6
+Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Your club's name here!
 
 </div>
