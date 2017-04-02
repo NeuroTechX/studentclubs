@@ -14,7 +14,7 @@ header: no
 Your Club Name Here | SynapsETS - École de Technologie Supérieure | NeuroTechUofT - University of Toronto
 
 --- | --- | ---
-[![BSYS]({{ site.url }}{{ site.baseurl }}/images/bsys_concordia.png "Concordia University")](http://bsys.ca/index.html) | [![Polycortex]({{ site.url }}{{ site.baseurl }}/images/poly_cortex.png "Polytechnique de Montréal")](http://polycortex.wix.com/polycortex) | [![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech)
+[![BSYS]({{ site.url }}{{ site.baseurl }}/images/bsys_concordia.png "Concordia University")](http://bsys.ca/index.html) | [![Polycortex]({{ site.url }}{{ site.baseurl }}/images/poly_cortex.png "Polytechnique de Montréal")](http://polycortex.polymtl.ca/) | [![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech)
 BSYS - Concordia University | Polycortex - Polytechnique de Montréal | MENTAL - McGill University
 
 --- | --- | ---
