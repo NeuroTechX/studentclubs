@@ -13,12 +13,18 @@ header: no
 [![OpenBCI]({{ site.url }}{{ site.baseurl }}/images/partners/OpenBCI.png "OpenBCI")](http://www.openbci.com) | [![InteraXon]({{ site.url }}{{ site.baseurl }}/images/partners/Muse.png "Muse - InteraXon")](http://choosemuse.com/) | [![NeuroSky]({{ site.url }}{{ site.baseurl }}/images/partners/Neurosky.png "NeuroSky")](http://www.neurosky.com)
 OpenBCI | InteraXon | Neurosky
 
---- | --- | ---
- | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://neurotechx.com/) |
- | NeuroTechX |
-
 </div>
 
+<figure>
+   <a href="http://neurotechx.com">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png"
+      alt="NeuroTechX" />
+      </a>
+   <figcaption>NeuroTechX</figcaption>
+</figure>
+
+<br />
+<br />
 <p>
 If you would like to support this amazing initiative and partner with us, please contact yannick [at] neurotechx.com
 </p>
