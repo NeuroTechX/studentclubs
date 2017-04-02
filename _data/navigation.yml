@@ -26,13 +26,13 @@
   side: right
 
 - title: Partners
-  url: "/parners/"
+  url: "/partners/"
   side: right
 
 - title: FAQ
   url: "/FAQ/"
   side: right
-  
+
 - title: Contact
   url: "/contact/"
   side: right

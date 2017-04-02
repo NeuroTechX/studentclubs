@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: page-fullwidth
 title:  "NTX Student Clubs Initiative - 2017 Edition"
 date:   2017-03-28 08:00:00 -0600
 subheadline:  "2017 Edition"
 teaser: "Check out what will happen during the NeuroTechX Student Clubs 2017 Edition."
-categories: 
+categories:
    - news
-header: 
+header:
    image_fullwidth: "http://neurotechx.com/img/student_clubs/CheeringShot_DemoDay.gif"
 ---
 ---

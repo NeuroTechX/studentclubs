@@ -10,11 +10,15 @@ header: no
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![OpenBCI]({{ site.url }}{{ site.baseurl }}/images/partners/OpenBCI.png "OpenBCI")](http://www.openbci.com) | [![InteraXon]({{ site.url }}{{ site.baseurl }}/images/partners/Muse.png "Muse - InteraXon")](http://choosemuse.com/) | [![NeuroSky]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroSky.png "NeuroSky")](http://www.neurosky.com)
+[![OpenBCI]({{ site.url }}{{ site.baseurl }}/images/partners/OpenBCI.png "OpenBCI")](http://www.openbci.com) | [![InteraXon]({{ site.url }}{{ site.baseurl }}/images/partners/Muse.png "Muse - InteraXon")](http://choosemuse.com/) | [![NeuroSky]({{ site.url }}{{ site.baseurl }}/images/partners/Neurosky.png "NeuroSky")](http://www.neurosky.com)
 OpenBCI | InteraXon | Neurosky
 
 --- | --- | ---
-[] | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://neurotechx.com/) | [![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech)
-N/A | NeuroTechX | N/A
+ | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://neurotechx.com/) |
+ | NeuroTechX |
 
 </div>
+
+<p>
+If you would like to support this amazing initiative and partner with us, please contact yannick [at] neurotechx.com
+</p>
