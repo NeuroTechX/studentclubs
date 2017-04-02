@@ -18,11 +18,11 @@ Your Club Name Here | SynapsETS - École de Technologie Supérieure | NeuroTechU
 BSYS - Concordia University | Polycortex - Polytechnique de Montréal | MENTAL - McGill University
 
 --- | --- | ---
-[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
-Maction Potential - McMaster University | SEARCH - Carleton University | MINT - University of British Columbia
+[![placeholder]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
+NeuroTechIU - Indiana University | SEARCH - Carleton University | MINT - University of British Columbia
 
 --- | --- | ---
-[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | 
-Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley
+[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
+Maction Potential - McMaster University | Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley
 
 </div>
