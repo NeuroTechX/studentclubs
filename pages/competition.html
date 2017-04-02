@@ -7,6 +7,9 @@ header: no
 permalink: "/competition/"
 ---
 
+<button onclick="showOnline()">Online competition</button><button onclick="showDemoDay()">Demo Day</button>
+
+<div id="divOnline">
 <p><span style="font-weight: 400;">The </span><a href="http://neurotechx.com/"><span style="font-weight: 400;">NTX</span></a> <a href="http://neurotechx.com/studentclubs.html"><span style="font-weight: 400;">SC Online Competition</span></a><span style="font-weight: 400;"> has two components: a </span><span style="font-weight: 400;">fixed challenge</span><span style="font-weight: 400;"> and an </span><span style="font-weight: 400;">open challenge</span><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">All team must submit a </span><strong>10-min video</strong><span style="font-weight: 400;"> including a presentation and a demonstration of the project, for both challenges. All team must also provide a </span><strong>public GitHub repository</strong><span style="font-weight: 400;">, including the project components and a comprehensive description with all the steps to reproduce it. An example will soon be provided. The deadline for submitting a project to any of the two challenges is by the end of November, 2017. </span><strong>All projects must be reproducible and open-source.</strong></p>
 <h2>Participation rules</h2>
@@ -70,4 +73,24 @@ permalink: "/competition/"
 	<li style="font-weight: 400;"><span style="font-weight: 400;">PCB are highly recommended (not mandatory).</span></li>
 	<li style="font-weight: 400;"><span style="font-weight: 400;">Open-source libraries for data transmission and visualization are allowed, full package such as OpenVibe are not allowed.</span></li>
 </ul>
+</div>
+<div id="divDemoDay">
+	
+</div>
+
+<script>
+function showOnline() {
+    var divDD = document.getElementById('divDemoDay');
+    var divOC = document.getElementById('divOnline');
+    divDD.style.display = 'none'
+    divOC.style.display = 'block'
+}
+	
+function showDemoDay() {
+    var divDD = document.getElementById('divDemoDay');
+    var divOC = document.getElementById('divOnline');
+    divDD.style.display = 'block'
+    divOC.style.display = 'none'
+}
+</script>
 		
