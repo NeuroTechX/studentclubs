@@ -22,7 +22,7 @@ BSYS - Concordia University | Polycortex - Polytechnique de Montréal | MENTAL -
 Maction Potential - McMaster University | SEARCH - Carleton University | MINT - University of British Columbia
 
 --- | --- | ---
-[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link)
-Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Your club's name here!
+[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | 
+Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley
 
 </div>
