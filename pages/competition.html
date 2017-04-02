@@ -5,8 +5,6 @@ title: "NeuroTechX Student Clubs Competition"
 subheadline: "2017 edition"
 header: no
 permalink: "/competition/"
-jsarr:
-     - timeline.js
 ---
 
 <button onclick="showOnline()">Online competition</button><button onclick="showDemoDay()">Demo Day</button>
@@ -80,8 +78,18 @@ jsarr:
 	
 </div>
 
-{% for js in page.jsarr %}
-     <script type="text/javascript">
-     {% include {{ js }} %}
-     </script>
-{% endfor %}
+<script type="text/javascript">
+function showOnline() {
+     var divDD = document.getElementById('divDemoDay');
+     var divOC = document.getElementById('divOnline');
+     divDD.style.display = 'none'
+     divOC.style.display = 'block'
+ }
+ 	
+ function showDemoDay() {
+     var divDD = document.getElementById('divDemoDay');
+     var divOC = document.getElementById('divOnline');
+     divDD.style.display = 'block'
+     divOC.style.display = 'none'
+ }
+</script>
