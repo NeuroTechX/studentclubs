@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  "NTX Student Clubs Initiative - 2017 Edition"
-date:   2017-03-28 08:00:00 -0600
+title: "NTX Student Clubs Initiative - 2017 Edition"
 subheadline:  "2017 Edition"
 teaser: "Check out what will happen during the NeuroTechX Student Clubs 2017 Edition."
 categories:
