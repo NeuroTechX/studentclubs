@@ -26,5 +26,5 @@ Should you like to:
 
 <br />
 <figure>
-    <img src="LetsDoThis.jpg" alt="Lets Do This!" .center-image/>
+    <img src="LetsDoThis.jpg" alt="Lets Do This!" />
 </figure>
