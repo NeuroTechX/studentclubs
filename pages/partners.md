@@ -14,10 +14,10 @@ header: no
 OpenBCI | InteraXon | Neurosky
 
 --- | --- | ---
-[![N/A]] () |
+[] |
 [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://www.NeuroTechX.com) |
-[![N/A]] ()
-_ | NeuroTechX | _ 
+[]
+_ | NeuroTechX | _
 
 </div>
 

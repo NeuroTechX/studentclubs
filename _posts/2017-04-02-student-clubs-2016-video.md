@@ -1,9 +1,9 @@
 ---
 layout: video
 show_meta: false
-title: "Student Clubs 2016 - Demo Day Video"
-subheadline: "SC - Demo Day 2016"
-teaser: "If you want to know what happened during the 2016 edition!"
+title: "NTX SC 2016 - Demo Day Video"
+subheadline: "NTX SC - Demo Day 2016"
+teaser: "Short Video of the 2016 Demo Day!"
 tags:
     - Demo Day
 categories:
@@ -26,6 +26,10 @@ video:
 ---
 <!--more-->
 
+<br />
+<br />
 > What a blast we had during Demo Day 2016!
 
+<br />
+<br />
 Source: [NeuroTechX SC 2016 Demo Day Video!](https://www.youtube.com/watch?v=D00yRmY3dBg)
