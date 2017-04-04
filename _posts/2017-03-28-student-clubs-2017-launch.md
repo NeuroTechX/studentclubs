@@ -7,7 +7,7 @@ teaser: "Check out what will happen during the NeuroTechX Student Clubs 2017 Edi
 categories:
    - news
 header:
-image: Cheering_Shot.png
+image: "Cheering_Shot.png"
 background-color:  "#304558"
 ---
 ---
