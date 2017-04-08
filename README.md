@@ -1,4 +1,4 @@
-#NeurotechEDU
+# NeurotechEDU
 ### [www.learn.neurotechedu.com](http://learn.neurotechedu.com/)
 
 NeurotechEDU is an open-source project designed to promote collaboration and user-generated content towards emerging Neurotechnology practices.
@@ -14,7 +14,7 @@ Github is necessary if you wish to contribute to NeurotechEDU. [You can learn ab
 
 <br>
 
-##Contributing
+## Contributing
 
 We have set up the contribution process to be as simple as possible so that people who don’t have much experience programming are still able to contribute. 
 
@@ -32,7 +32,7 @@ The second option gives more freedom with HTML, Markdown and a local Jekyll buil
 <br>
 
 
-##Editing directly on Github
+## Editing directly on Github
 
 Head to: 
 ```
@@ -102,7 +102,7 @@ Head to:
 2. The theme we use implements the Foundation framework, that's where the naming conventions for our classes and ID's come from. Their documentation is available [here](http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html).
 
 <br>
-##Feedback?
+## Feedback?
 Get in touch with us [here] (https://docs.google.com/forms/d/e/1FAIpQLScUB1BwxUr6pKxe8yTS4JqU7veFXyYgFOETUDRluG5pK7E7tg/viewform?c=0&w=1)
 
 
