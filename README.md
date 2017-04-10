@@ -1,4 +1,4 @@
-#NeurotechEDU
+# NeurotechEDU
 ### [www.learn.neurotechedu.com](http://learn.neurotechedu.com/)
 
 NeurotechEDU is an open-source project designed to promote collaboration and user-generated content towards emerging Neurotechnology practices.
@@ -12,9 +12,7 @@ The project is built with the help of:
 
 Github is necessary if you wish to contribute to NeurotechEDU. [You can learn about Github here.](https://guides.github.com/activities/hello-world/)
 
-<br>
-
-##Contributing
+## Contributing
 
 We have set up the contribution process to be as simple as possible so that people who don’t have much experience programming are still able to contribute. 
 
@@ -32,7 +30,7 @@ The second option gives more freedom with HTML, Markdown and a local Jekyll buil
 <br>
 
 
-##Editing directly on Github
+## Editing directly on Github
 
 Head to: 
 ```
@@ -45,9 +43,6 @@ Head to:
 4. DO NOT modify any HTML, simply add your markdown code inside 
 5. If you want to include images, add them to 'http://learn.neurotechedu.com/images/'
 6. Once done, push a commit that will be reviewed by one of our webmasters. Keep in mind that we are a non-profit and depend on the generosity of people in order to keep a high quality standard.
-<br>
-<br>
-
 
 ## Contributing with local Jekyll build
 
@@ -78,7 +73,6 @@ re-generate the [data files](#details) the site depends on.
 
 Installing Jekyll on Windows is somewhat different. [You can learn about it here.](https://jekyllrb.com/docs/windows/)
 
-<br>
 ### Once Jekyll is working:
 
 Head to: 
@@ -95,15 +89,13 @@ Head to:
 6. With local builds you can do `jekyll serve` in order to create a temporary server in your machine and see how the website comes together once built. We suggest you do this as much as possible before commiting any changes. Jekyll's potential really comes through once you have constant feedback capabilities.
 6. Once done, push a commit that will be reviewed by one of our webmasters. 
 
-<br>
 ## Notes
 
 1. Please don't add any styling to the scss files. If you want to stylize your page more, inline `<span>` or `style=""` tags are fine.
 2. The theme we use implements the Foundation framework, that's where the naming conventions for our classes and ID's come from. Their documentation is available [here](http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html).
 
-<br>
-##Feedback?
-Get in touch with us [here] (https://docs.google.com/forms/d/e/1FAIpQLScUB1BwxUr6pKxe8yTS4JqU7veFXyYgFOETUDRluG5pK7E7tg/viewform?c=0&w=1)
+## Feedback?
+Get in touch with us [here](https://docs.google.com/forms/d/e/1FAIpQLScUB1BwxUr6pKxe8yTS4JqU7veFXyYgFOETUDRluG5pK7E7tg/viewform?c=0&w=1)
 
 
 
