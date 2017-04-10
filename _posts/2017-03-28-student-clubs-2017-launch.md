@@ -2,16 +2,15 @@
 layout: page
 title: "NTX Student Clubs Initiative - 2017 Edition"
 subheadline:  "2017 Edition"
-teaser: "Check out what will happen during the NeuroTechX Student Clubs 2017 Edition."
+teaser: "What will happen during the NeuroTechX Student Clubs 2017 Edition?"
 categories:
    - news
 header:
 image: "Cheering_Shot.png"
 background-color:  "#304558"
 ---
----
 
->> We are proud to announce the 2017 Edition of NeuroTechX Student Club Initiative!
+> We are proud to announce the 2017 Edition of NeuroTechX Student Club Initiative!
 
 After a successful launch in 2016 as a pilot project with universities in Montreal and Toronto, we are now expanding and inviting undergrads from all around the world to join us in this great adventure! We started with 5 student clubs in 2016 and already have 11 student clubs as of April 2017 and expect to close the year with a good 15 student clubs!
 
@@ -26,5 +25,5 @@ Should you like to:
 
 <br />
 <figure>
-    <img src="LetsDoThis.jpg" alt="Lets Do This!" />
+   <img src="{{ site.url }}{{ site.baseurl }}/images/LetsDoThis.jpg" alt="Lets Do This!" />
 </figure>
