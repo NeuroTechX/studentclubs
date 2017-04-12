@@ -6,8 +6,9 @@ teaser: "What will happen during the NeuroTechX Student Clubs 2017 Edition?"
 categories:
    - news
 header:
-image: "Cheering_Shot.png"
-    thumb: "Cheering_Shot_thumb.jpg"
+image:
+  header: "Cheering_Shot.png"
+  thumb: "Cheering_Shot_thumb.jpg"
 background-color:  "#304558"
 ---
 
