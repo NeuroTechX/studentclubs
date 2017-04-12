@@ -5,11 +5,7 @@ subheadline:  "2017 Edition"
 teaser: "What will happen during the NeuroTechX Student Clubs 2017 Edition?"
 categories:
    - news
-header:
-image:
-  header: "Cheering_Shot.png"
-  thumb: "Cheering_Shot-thumb.jpg"
-background-color:  "#304558"
+header: no
 ---
 
 > We are proud to announce the 2017 Edition of NeuroTechX Student Club Initiative!

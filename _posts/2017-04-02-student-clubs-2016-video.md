@@ -8,6 +8,7 @@ tags:
     - Demo Day
 categories:
     - news
+
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/D00yRmY3dBg' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
@@ -22,7 +23,11 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/D00yRmY3d
 video:
     embedURL: "https://www.youtube.com/embed/D00yRmY3dBg"
     contentURL: "https://www.youtube.com/watch?v=D00yRmY3dBg"
-    thumbnailUrl: "https://img.youtube.com/vi/D00yRmY3dBg/hqdefault.jpg"
+    thumbnailUrl: "https://img.youtube.com/vi/D00yRmY3dBg/default.jpg"
+image:
+  homepage: DemoDay-thumb.jpg
+  thumb: DemoDay-thumb.jpg
+
 ---
 <!--more-->
 
