@@ -6,12 +6,15 @@ header: no
 permalink: "/competition/"
 ---
 
-<center><button id="buttonOnline" style="width:250px;background-color:#575757" onclick="showOnline()">Online competition</button>&nbsp;
-	<button id="buttonDemoDay" style="width:250px;background-color:#BEBEBE" onclick="showDemoDay()">Demo Day</button></center>
+<center><button id="buttonOnline" class="button info" onclick="showOnline()">Online competition</button>&nbsp;
+	<button id="buttonDemoDay" class="button disabled" onclick="showDemoDay()">Demo Day</button></center>
 
 <div id="divOnline">
 <p>The <a href="http://neurotechx.com/">NTX</a> <a href="http://neurotechx.com/studentclubs.html">SC Online Competition</a> has two components: a fixed challenge and an open challenge.</p>
 <p>All team must submit a <strong>10-min video</strong> including a presentation and a demonstration of the project, for both challenges. All team must also provide a <strong>public GitHub repository</strong>, including the project components and a comprehensive description with all the steps to reproduce it. An example will soon be provided. The deadline for submitting a project to any of the two challenges is by the end of November, 2017. <strong>All projects must be reproducible and open-source.</strong></p>
+
+<img style="margin: 0 auto; display: block; max-height: 300px;" src="{{ site.url }}{{ site.baseurl }}/images/headset1.jpg" alt="EEG headset">
+
 <h2>Participation rules</h2>
 <ul>
 	<li>The team must be composed of at least three (3) undergraduate students from the same university (or campus). Make sure you can use your university name.</li>
@@ -73,6 +76,9 @@ permalink: "/competition/"
 	<li>PCB are highly recommended (not mandatory).</li>
 	<li>Open-source libraries for data transmission and visualization are allowed, full package such as OpenVibe are not allowed.</li>
 </ul>
+
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/student_icon1.png" alt="Idea icon">
+
 </div>
 <div id="divDemoDay" hidden>
 	Coming soon!
@@ -86,8 +92,8 @@ function showOnline() {
      var buttonOC = document.getElementById('buttonOnline');
      divDD.style.display = 'none';
      divOC.style.display = 'block';
-     buttonDD.style.background="#BEBEBE";
-     buttonOC.style.background="#575757";
+     buttonDD.className="button disabled";
+     buttonOC.className="button info";
  }
 
  function showDemoDay() {
@@ -97,7 +103,7 @@ function showOnline() {
      var buttonOC = document.getElementById('buttonOnline');
      divDD.style.display = 'block';
      divOC.style.display = 'none';
-     buttonDD.style.background="#575757";
-     buttonOC.style.background="#BEBEBE";
+     buttonDD.className="button info";
+     buttonOC.className="button disabled";
  }
 </script>

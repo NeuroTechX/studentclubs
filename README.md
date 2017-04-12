@@ -4,7 +4,7 @@
 NeurotechEDU is an open-source project designed to promote collaboration and user-generated content towards emerging Neurotechnology practices.
 The idea is that if you are not finding something that should be part of our resources or lessons you can go ahead make it, and upload it to our page.
 
-The project is built with the help of:
+This project is built with the help of:
 
  * [Foundation](http://foundation.zurb.com/)
  * [Jekyll](http://jekyllrb.com/)
@@ -14,7 +14,7 @@ Github is necessary if you wish to contribute to NeurotechEDU. [You can learn ab
 
 ## Contributing
 
-We have set up the contribution process to be as simple as possible so that people who don’t have much experience programming are still able to contribute. 
+We have set up the contribution process to be as simple as possible so that people who don’t have much experience programming are still able to contribute.
 
 + There are two ways to do so:
   - [By editing a new page directly on Github](#editing-directly-on-github).
@@ -25,22 +25,22 @@ With either option, in order to publish you push a commit to us and once approve
 The first option allows you to only use markdown, a very simple syntax designed to accomodate prose in web documents. It does require precise spacing. Elements such as lists might need a blank line before and after the element in order to work properly. You can read more about it [here](https://guides.github.com/features/mastering-markdown/).
 
 The second option gives more freedom with HTML, Markdown and a local Jekyll build. You are able to have more flexibility with design and render a preview of the page as you go.  
-  
+
 #### *Please remember that all contributions need to be done as a new page*.  
 <br>
 
 
 ## Editing directly on Github
 
-Head to: 
+Head to:
 ```
 /pages
 ```
 
 1. Create a new file via "Create new file" button" name the file to your liking, but make sure it ends in `.md` [markdown format] and that *no other file in the folder has the name you wish to use*.
 2. Change the file’s title, teaser and permalink. Make sure to keep the same formatting.
-3. The page starts below the masthead markdown code, we have included examples of the code there. You can see what it looks like once rendered by jekyll by going to http://learn.neurotechedu.com/template/ and comparing it with `template.md` in the repository. 
-4. DO NOT modify any HTML, simply add your markdown code inside 
+3. The page starts below the masthead markdown code, we have included examples of the code there. You can see what it looks like once rendered by jekyll by going to http://learn.neurotechedu.com/template/ and comparing it with `template.md` in the repository.
+4. DO NOT modify any HTML, simply add your markdown code inside
 5. If you want to include images, add them to 'http://learn.neurotechedu.com/images/'
 6. Once done, push a commit that will be reviewed by one of our webmasters. Keep in mind that we are a non-profit and depend on the generosity of people in order to keep a high quality standard.
 
@@ -75,7 +75,7 @@ Installing Jekyll on Windows is somewhat different. [You can learn about it here
 
 ### Once Jekyll is working:
 
-Head to: 
+Head to:
 ```
 /pages
     /template.md
@@ -87,7 +87,7 @@ Head to:
 4. Add your markdown code inside the given HTML tags. If you want to change some HTML, that's fine with us but please don't add any styles to the .scss files. The HTML conventions come from our theme's use of the Foundation framework.
 5. If you want to include images, add them to 'http://learn.neurotechedu.com/images/'
 6. With local builds you can do `jekyll serve` in order to create a temporary server in your machine and see how the website comes together once built. We suggest you do this as much as possible before commiting any changes. Jekyll's potential really comes through once you have constant feedback capabilities.
-6. Once done, push a commit that will be reviewed by one of our webmasters. 
+6. Once done, push a commit that will be reviewed by one of our webmasters.
 
 ## Notes
 
@@ -96,7 +96,3 @@ Head to:
 
 ## Feedback?
 Get in touch with us [here](https://docs.google.com/forms/d/e/1FAIpQLScUB1BwxUr6pKxe8yTS4JqU7veFXyYgFOETUDRluG5pK7E7tg/viewform?c=0&w=1)
-
-
-
-

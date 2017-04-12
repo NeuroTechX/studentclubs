@@ -47,7 +47,7 @@ permalink: /index.html
 homepage: true
 ---
 
-# Why NeuroTech Student Clubs
+# NeuroTechX Student Clubs
 
 Neurotechnology has never been this accessible before. We want to catalyze the interest and involvement of skilled students by providing them with a precise goal to work towards and the resources to get there.
 
