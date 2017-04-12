@@ -8,7 +8,7 @@ categories:
 header:
 image:
   header: "Cheering_Shot.png"
-  thumb: "Cheering_Shot_thumb.jpg"
+  thumb: "Cheering_Shot-thumb.jpg"
 background-color:  "#304558"
 ---
 
