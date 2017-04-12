@@ -7,6 +7,7 @@ categories:
    - news
 header:
 image: "Cheering_Shot.png"
+    thumb: "Cheering_Shot_thumb.jpg"
 background-color:  "#304558"
 ---
 

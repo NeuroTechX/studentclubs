@@ -22,7 +22,7 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/D00yRmY3d
 video:
     embedURL: "https://www.youtube.com/embed/D00yRmY3dBg"
     contentURL: "https://www.youtube.com/watch?v=D00yRmY3dBg"
-    thumbnailUrl: "http://img.youtube.com/vi/D00yRmY3dBg/maxresdefault.jpg"
+    thumbnailUrl: "https://img.youtube.com/vi/D00yRmY3dBg/hqdefault.jpg"
 ---
 <!--more-->
 
