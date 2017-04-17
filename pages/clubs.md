@@ -18,11 +18,11 @@ SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Mo
 BSYS - Concordia University | MENTAL - McGill University | NeuroTechIU - Indiana University
 
 --- | --- | ---
-[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](https://ubcmint.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
+[![placeholder](http://placehold.it/300x200 "Carleton University")](#link) | [![placeholder](http://placehold.it/300x200 "University of British Columbia")](https://ubcmint.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
 SEARCH - Carleton University | MINT - University of British Columbia | Maction Potential - McMaster University
 
 --- | --- | ---
-[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
+[![placeholder](http://placehold.it/300x200 "Nanyang Technological University")](#link) | [![placeholder](http://placehold.it/300x200 "University of California, Berkeley")](#link) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
 Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Your Club Name Here
 
 </div>
