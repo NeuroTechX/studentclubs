@@ -18,7 +18,7 @@ SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Mo
 BSYS - Concordia University | MENTAL - McGill University | NeuroTechIU - Indiana University
 
 --- | --- | ---
-[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
+[![placeholder](http://placehold.it/300x200 "placeholder")](#link) | [![placeholder](http://placehold.it/300x200 "placeholder")](https://ubcmint.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
 SEARCH - Carleton University | MINT - University of British Columbia | Maction Potential - McMaster University
 
 --- | --- | ---
