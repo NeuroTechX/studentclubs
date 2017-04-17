@@ -7,10 +7,11 @@ permalink: "/competition/"
 ---
 
 <center><button id="buttonOnline" class="button info" onclick="showOnline()">Online competition</button>&nbsp;
-	<button id="buttonDemoDay" class="button disabled" onclick="showDemoDay()">Demo Day</button></center>
+	<button id="buttonDemoDay" class="button disabled" onclick="showDemoDay()">Demo Day</button>&nbsp;
+	<button id="buttonPreviousEditions" class="button disabled" onclick="showPrevious()">Previous Editions</button></center>
 
 <div id="divOnline">
-<p>The <a href="http://neurotechx.com/">NTX</a> <a href="http://neurotechx.com/studentclubs.html">SC Online Competition</a> has two components: a fixed challenge and an open challenge.</p>
+	<p>The <a href="http://neurotechx.com/">NeuroTechX</a> SC Online Competition has two components: a fixed challenge and an open challenge.</p>
 <p>All team must submit a <strong>10-min video</strong> including a presentation and a demonstration of the project, for both challenges. All team must also provide a <strong>public GitHub repository</strong>, including the project components and a comprehensive description with all the steps to reproduce it. An example will soon be provided. The deadline for submitting a project to any of the two challenges is by the end of November, 2017. <strong>All projects must be reproducible and open-source.</strong></p>
 
 <img style="margin: 10px auto; display: block; max-height: 300px;" src="{{ site.url }}{{ site.baseurl }}/images/headset1.jpg" alt="EEG headset">
@@ -79,31 +80,61 @@ permalink: "/competition/"
 
 <img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/student_icon1.png" alt="Idea icon">
 
+<a href="https://drive.google.com/open?id=0B7bjjfpwAk4aTjVVaEt4SHF2eHc">Link to 2017 competition rules</a>
 </div>
+
 <div id="divDemoDay" hidden>
 	Coming soon!
 </div>
+
+<div id="divPreviousEditions" hidden>
+	<a href="https://medium.com/neurotechx/ntx-student-clubs-initiative-2fba98b0d082">NeuroTechX Student Clubs Demo Day - 2016 Edition</a>
+</div>
+
 
 <script type="text/javascript">
 function showOnline() {
      var divDD = document.getElementById('divDemoDay');
      var divOC = document.getElementById('divOnline');
+     var divPE = document.getElementById('divPreviousEditions');
      var buttonDD = document.getElementById('buttonDemoDay');
      var buttonOC = document.getElementById('buttonOnline');
+     var buttonPE = document.getElementById('buttonPreviousEditions');
      divDD.style.display = 'none';
      divOC.style.display = 'block';
+     divPE.style.display = 'none';
      buttonDD.className="button disabled";
      buttonOC.className="button info";
+     buttonPE.classMame="button disabled";
  }
 
  function showDemoDay() {
      var divDD = document.getElementById('divDemoDay');
      var divOC = document.getElementById('divOnline');
+     var divPE = document.getElementById('divPreviousEditions');
      var buttonDD = document.getElementById('buttonDemoDay');
      var buttonOC = document.getElementById('buttonOnline');
+     var buttonPE = document.getElementById('buttonPreviousEditions');
      divDD.style.display = 'block';
      divOC.style.display = 'none';
+     divPE.style.display = 'none';
      buttonDD.className="button info";
      buttonOC.className="button disabled";
+     buttonPE.classMame="button disabled";
+ }
+	
+ function showPrevious() {
+     var divDD = document.getElementById('divDemoDay');
+     var divOC = document.getElementById('divOnline');
+     var divPE = document.getElementById('divPreviousEditions');
+     var buttonDD = document.getElementById('buttonDemoDay');
+     var buttonOC = document.getElementById('buttonOnline');
+     var buttonPE = document.getElementById('buttonPreviousEditions');
+     divDD.style.display = 'none';
+     divOC.style.display = 'none';
+     divPE.style.display = 'block';
+     buttonDD.className="button disabled";
+     buttonOC.className="button disabled";
+     buttonPE.classMame="button info";
  }
 </script>
