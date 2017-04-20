@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Clubs"
   url: '/clubs/'
-  image: hardware.jpg
+  image: clubs-thumb.jpg
   text: 'Learn about the Student Clubs currently involved with NeuroTechX.'
 
 widget3:
