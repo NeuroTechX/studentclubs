@@ -10,7 +10,7 @@ header: no
 widget1:
   title: "Get Started"
   url: '/get-started/'
-  image: openBCI-303x182.jpg
+  image: getstarted-thumb.jpg
   text: 'Get on the right track toward making your own Student Club.'
 
 widget2:
@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "FAQ"
   url: '/FAQ/'
-  image: community.jpg
+  image: faq-thumb.jpg
   text: 'See here for a list of Frequently Asked Questions.'
 #
 # Use the call for action to show a button on the frontpage
