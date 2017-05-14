@@ -10,7 +10,7 @@ header: no
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![SynapsETS]({{ site.url }}{{ site.baseurl }}/images/synap_ets.png "École de Technologie Supérieure")](http://synapsets.etsmtl.ca/) | [![Polycortex]({{ site.url }}{{ site.baseurl }}/images/poly_cortex.png "Polytechnique de Montréal")](http://polycortex.polymtl.ca/) | [![NeuroTechUofT]({{ site.url }}{{ site.baseurl }}/images/neurotechuoft_dark.png "University of Toronto")](http://neurotechuoft.github.io/)
+[![SynapsETS]({{ site.url }}{{ site.baseurl }}/images/synap_ets.png "École de Technologie Supérieure")](http://synapsets.etsmtl.ca/) | [![Polycortex]({{ site.url }}{{ site.baseurl }}/images/poly_cortex.png "Polytechnique de Montréal")](http://polycortex.polymtl.ca/) | [![NeuroTechUofT]({{ site.url }}{{ site.baseurl }}/images/neurotechUofT-light-bg (1).png "University of Toronto")](http://neurotechuoft.github.io/)
 SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Montréal | NeuroTechUofT - University of Toronto
 
 --- | --- | ---
