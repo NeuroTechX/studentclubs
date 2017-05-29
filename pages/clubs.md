@@ -19,7 +19,7 @@ BSYS - Concordia University | MENTAL - McGill University | NeuroTechIU - Indiana
 
 --- | --- | ---
 [![placeholder](http://placehold.it/300x200 "Carleton University")](#link) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
-SEARCH - Carleton University | MINT - University of British Columbia | Maction Potential - McMaster University
+GENESYS - Carleton University | MINT - University of British Columbia | Maction Potential - McMaster University
 
 --- | --- | ---
 [![placeholder](http://placehold.it/300x200 "Nanyang Technological University")](#link) | [![placeholder](http://placehold.it/300x200 "University of California, Berkeley")](#link) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
