@@ -22,7 +22,7 @@ BSYS - Concordia University | MENTAL - McGill University | NeuroTechIU - Indiana
 GENESYS - Carleton University | MINT - University of British Columbia | Maction Potential - McMaster University
 
 --- | --- | ---
-[![placeholder](http://placehold.it/300x200 "Nanyang Technological University")](#link) | [![placeholder](http://placehold.it/300x200 "University of California, Berkeley")](#link) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
+[![placeholder]({{ site.url }}{{ site.baseurl }}/images/Neuross-logo-final.png "Nanyang Technological University")](#link) | [![placeholder](http://placehold.it/300x200 "University of California, Berkeley")](#link) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
 Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Your Club Name Here
 
 </div>
