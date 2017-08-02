@@ -8,22 +8,35 @@ layout: frontpage
 header: no
 
 widget1:
+  title: "Clubs"
+  url: '/clubs/'
+  image: clubs-thumb.jpg
+  text: 'Learn about the Student Clubs currently involved with NeuroTechX.'
+  
+widget2:
+  title: "Competition"
+  url: '/competition/'
+  image: getstarted-thumb.jpg
+  text: 'Discover the two challenges of the NTX competition 2017.'
+
+widget3:
   title: "Get Started"
   url: '/get-started/'
   image: getstarted-thumb.jpg
   text: 'Get on the right track toward making your own Student Club.'
 
-widget2:
-  title: "Clubs"
-  url: '/clubs/'
+widget4:
+  title: "Curriculum"
+  url: '/curriculum/'
   image: clubs-thumb.jpg
-  text: 'Learn about the Student Clubs currently involved with NeuroTechX.'
+  text: 'What do a new student clubs should focus on?'
 
-widget3:
+widget5:
   title: "FAQ"
   url: '/FAQ/'
   image: faq-thumb.jpg
   text: 'See here for a list of Frequently Asked Questions.'
+
 #
 # Use the call for action to show a button on the frontpage
 #
