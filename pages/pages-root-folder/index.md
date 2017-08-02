@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Competition"
   url: '/competition/'
-  image: getstarted-thumb.jpg
+  image: competition-thumb.JPG
   text: 'Discover the two challenges of the NTX competition 2017.'
 
 widget3:
@@ -28,7 +28,7 @@ widget3:
 widget4:
   title: "Curriculum"
   url: '/curriculum/'
-  image: clubs-thumb.jpg
+  image: curriculum-thumb.jpg
   text: 'What do a new student clubs should focus on?'
 
 widget5:
