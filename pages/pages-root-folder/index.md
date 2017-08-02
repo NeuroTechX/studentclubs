@@ -28,7 +28,7 @@ widget3:
 widget4:
   title: "Curriculum"
   url: '/curriculum/'
-  image: curriculum-thumb.jpg
+  image: curriculum-thumb.JPG
   text: 'What do a new student clubs should focus on?'
 
 widget5:
