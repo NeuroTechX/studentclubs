@@ -18,7 +18,7 @@ SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Mo
 BSYS - Concordia University | MENTAL - McGill University | NeuroTechIU - Indiana University
 
 --- | --- | ---
-[![placeholder]({{ site.url }}{{ site.baseurl }}/images/GENESYS.png "Carleton University")](http://genesysgroup.ca/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
+[![placeholder]({{ site.url }}{{ site.baseurl }}/images/GENESYS.png "Carleton University")](https://genesysgroup.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
 GENESYS - Carleton University | MINT - University of British Columbia | Maction Potential - McMaster University
 
 --- | --- | ---
