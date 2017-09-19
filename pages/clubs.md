@@ -25,8 +25,8 @@ GENESYS - Carleton University | MINT - University of British Columbia | Maction 
 [![placeholder]({{ site.url }}{{ site.baseurl }}/images/Neuross-logo-final.png "Nanyang Technological University")](#link) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/berkeley_logo_outline_txt.png "University of California, Berkeley")](http://neurotechberkeley.org/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/)
 Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Merlin - Queen's University
 
----
-[![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
-Your Club Name Here
+--- | --- | ---
+  | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)  | 
+  | Your Club Name Here | 
 
 </div>
