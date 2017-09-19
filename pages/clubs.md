@@ -14,19 +14,19 @@ header: no
 SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Montréal | NeuroTechUofT - University of Toronto
 
 --- | --- | ---
-[![BSYS]({{ site.url }}{{ site.baseurl }}/images/bsys_concordia.png "Concordia University")](http://bsys.ca/index.html) | [![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/)
+[![BSYS]({{ site.url }}{{ site.baseurl }}/images/bsys_concordia.png "Concordia University")](http://bsys.ca/index.html) | [![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech) | [![NTI]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/)
 BSYS - Concordia University | MENTAL - McGill University | NeuroTechIU - Indiana University
 
 --- | --- | ---
-[![placeholder]({{ site.url }}{{ site.baseurl }}/images/GENESYS.png "Carleton University")](https://genesysgroup.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
+[![GENESYS]({{ site.url }}{{ site.baseurl }}/images/GENESYS.png "Carleton University")](https://genesysgroup.github.io/) | [![MINT]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![MACTION]({{ site.url }}{{ site.baseurl }}/images/macmaster_maction_potential.png "McMaster University")](#link)
 GENESYS - Carleton University | MINT - University of British Columbia | Maction Potential - McMaster University
 
 --- | --- | ---
-[![placeholder]({{ site.url }}{{ site.baseurl }}/images/Neuross-logo-final.png "Nanyang Technological University")](#link) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/berkeley_logo_outline_txt.png "University of California, Berkeley")](http://neurotechberkeley.org/) | [![placeholder]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/)
-Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Merlin - Queen's University
+[![NEUROSS]({{ site.url }}{{ site.baseurl }}/images/Neuross-logo-final.png "Nanyang Technological University")](#link) | [![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/berkeley_logo_outline_txt.png "University of California, Berkeley")](http://neurotechberkeley.org/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/)
+Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University
 
 --- | --- | ---
-  | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)  | 
-  | Your Club Name Here | 
+ | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started) | 
+ | Your Club Name Here | 
 
 </div>
