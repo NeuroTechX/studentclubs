@@ -26,7 +26,7 @@ GENESYS - Carleton University | MINT - University of British Columbia | Maction 
 Neuross - Nanyang Technological University | NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University
 
 --- | --- | ---
-[![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
-Your Club Name Here | Your Club Name Here | Your Club Name Here
+[![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started) | [![NEUROMADS]({{ site.url }}{{ site.baseurl }}/images/neuromads-logo.png "Pompeu Fabra University")](http://neuromads.sitemantic.com/neuromads/) | [![Your Logo Here]({{ site.url }}{{ site.baseurl }}/images/your-logo-here.png "Click to get started!")]({{ site.url }}{{ site.baseurl }}/get-started)
+Your Club Name Here |  NeuroMADS - Pompeu Fabra University | Your Club Name Here
 
 </div>
