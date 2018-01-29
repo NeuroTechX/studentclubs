@@ -10,9 +10,9 @@ header: no
 | :---: |
 | Benjamin De Leener (Chair) - benjamindeleener [at] neurotechx.com |
 
-| I need help with technical stuff |
+| I had a recent event and would like to promote it  |
 | :---: |
-| Nicomaque Jette (Student Club Guru) - nico [at] neurotechx.com |
+| Matt Herich (Communication guru) - mjherich [at] gmail.com |
 
 | I just need to talk |
 | :---: |
