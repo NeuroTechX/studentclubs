@@ -22,8 +22,12 @@ Emotiv | True Impact | Myndlift
 Looxid Labs | Imeka | Puzzlebox
 
 --- | --- | ---
-[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://www.NeuroTechX.com) | [![Neurable]({{ site.url }}{{ site.baseurl }}/images/partners/Neurable.png "Neurable")](http://www.neurable.com/)
-Mindset | NeuroTechX | Neurable
+[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![Cognixion]({{ site.url }}{{ site.baseurl }}/images/partners/Cognixion.png "Cognixion")](https://www.cognixion.com/) | [![Neurable]({{ site.url }}{{ site.baseurl }}/images/partners/Neurable.png "Neurable")](http://www.neurable.com/)
+Mindset | Cognixion | Neurable
+
+--- | --- | ---
+ | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://www.NeuroTechX.com) | 
+ | NeuroTechX | 
 
 </div>
 
