@@ -17,7 +17,7 @@ widget2:
   title: "Competition"
   url: '/competition/'
   image: competition-thumb.JPG
-  text: 'Discover the two challenges of the NTX competition 2017.'
+  text: 'Discover the two challenges of the NTX competition 2018.'
 
 widget3:
   title: "Get Started"
