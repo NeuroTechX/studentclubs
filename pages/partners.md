@@ -26,7 +26,7 @@ Looxid Labs | Imeka | Puzzlebox
 Mindset | Cognixion | Neurable
 
 --- | --- | ---
- | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/NeuroTechX.png "NeuroTechX")](http://www.NeuroTechX.com) | | 
+ | [![NeuroTechX](https://github.com/NeuroTechX/Resource-Kit/blob/master/Logo/ntx_black_1500_NTX_6.png "NeuroTechX")](http://www.NeuroTechX.com) | | 
  | NeuroTechX | | 
 
 </div>
