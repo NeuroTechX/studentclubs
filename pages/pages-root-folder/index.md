@@ -17,7 +17,7 @@ widget2:
   title: "Competition"
   url: '/competition/'
   image: competition-thumb.JPG
-  text: 'Discover the two challenges of the NTX competition 2018.'
+  text: 'Discover the two challenges of the NTX competition 2019.'
 
 widget3:
   title: "Get Started"
@@ -68,4 +68,8 @@ The NeuroTechX Student Club Competition promotes interdisciplinary collaboration
 
 We believe neurotechnology is key to better understanding and to improving who we are. We aim to inspire a whole new generation of neuroengineers, who will be equipped to drive the field forward.
 
-[![NTX SC Competition 2018]({{ site.url }}{{ site.baseurl }}/images/NTXSC2018_Flyer.png "NeuroTechX Student Clubs Competition 2018")]({{ site.url }}{{ site.baseurl }}/competition)
+[![NTX SC Competition 2019]({{ site.url }}{{ site.baseurl }}/images/NTXSC-Comp2019.png "NeuroTechX Student Clubs Competition # 2019")]({{ site.url }}{{ site.baseurl }}/competition)
+
+#
+# [![NTX SC Competition 2018]({{ site.url }}{{ site.baseurl }}/images/NTXSC2018_Flyer.png "NeuroTechX Student Clubs Competition # 2018")]({{ site.url }}{{ site.baseurl }}/competition)
+#
