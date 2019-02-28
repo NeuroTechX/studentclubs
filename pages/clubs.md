@@ -16,11 +16,11 @@ header: no
 SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Montréal | NeuroTechUofT - University of Toronto
 
 --- | --- | ---
-[[![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech) | [![MINT]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![MACTION]({{ site.url }}{{ site.baseurl }}/images/maction_potential_2.jpg "McMaster University")](https://sites.google.com/view/mactionpotential/home)
+[![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech) | [![MINT]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![MACTION]({{ site.url }}{{ site.baseurl }}/images/maction_potential_2.jpg "McMaster University")](https://sites.google.com/view/mactionpotential/home)
 MENTAL - McGill University | MINT - UBC | Maction Potential - McMaster University
 
 --- | --- | ---
-[![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/berkeley_logo_outline_txt.png "University of California, Berkeley")](http://neurotechberkeley.org/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/) | [[![BrainStormBGU]({{ site.url }}{{ site.baseurl }}/images/BrainStormBGU.png "Ben-Gurion University")](https://www.bengis.org/braintech)
+[![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/berkeley_logo_outline_txt.png "University of California, Berkeley")](http://neurotechberkeley.org/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/) | [![BrainStormBGU]({{ site.url }}{{ site.baseurl }}/images/BrainStormBGU.png "Ben-Gurion University")](https://www.bengis.org/braintech)
 NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University | BrainStorm BGU
 
 --- | --- | ---
@@ -39,7 +39,7 @@ NeurAlbertaTech - University of Alberta | CruX - UCLA | NaN Lab - Innopolis U. (
 BSYS - Concordia University | Neuross - Nanyang Technological University  | GENESYS - Carleton University
 
 --- | --- | ---
-[![NTI]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/) | . | [![NEUROMADS]({{ site.url }}{{ site.baseurl }}/images/neuromads-logo.png "Pompeu Fabra University")](http://neuromads.sitemantic.com/neuromads/)
-NeuroTechIU - Indiana University | ! | NeuroMADS
+[![NTI]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/) |   | [![NEUROMADS]({{ site.url }}{{ site.baseurl }}/images/neuromads-logo.png "Pompeu Fabra University")](http://neuromads.sitemantic.com/neuromads/)
+NeuroTechIU - Indiana University |   | NeuroMADS
 
 </div>
