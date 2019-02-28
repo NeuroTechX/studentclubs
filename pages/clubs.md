@@ -24,8 +24,8 @@ MENTAL - McGill University | MINT - UBC | Maction Potential - McMaster Universit
 NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University | BrainStorm BGU
 
 --- | --- | ---
-[![CRUX]({{ site.url }}{{ site.baseurl }}/images/CruX_UCLA.png "UCLA")](https://www.cruxucla.com/) | [![NanLab]({{ site.url }}{{ site.baseurl }}/images/NanLab.png "Nan Lab")](https://iunanl.github.io/nanl/ ) | [![NAT]({{ site.url }}{{ site.baseurl }}/images/NAT.png "NeurAlbertaTech")](https://sites.google.com/ualberta.ca/neuralbertatech/) |
-NeurAlbertaTech - University of Alberta | NaN Lab - Innopolis U. (Russia) | CruX - UCLA
+[![CRUX]({{ site.url }}{{ site.baseurl }}/images/CruX_UCLA.png "UCLA")](https://www.cruxucla.com/) | [![NAT]({{ site.url }}{{ site.baseurl }}/images/NAT.png "NeurAlbertaTech")](https://sites.google.com/ualberta.ca/neuralbertatech/) | [![NanLab]({{ site.url }}{{ site.baseurl }}/images/NaNLab.png "Nan Lab")](https://iunanl.github.io/nanl/ ) 
+NeurAlbertaTech - University of Alberta | CruX - UCLA | NaN Lab - Innopolis U. (Russia)
 
 </div>
 
@@ -38,10 +38,8 @@ NeurAlbertaTech - University of Alberta | NaN Lab - Innopolis U. (Russia) | CruX
 [![BSYS]({{ site.url }}{{ site.baseurl }}/images/bsys_concordia.png "Concordia University")](http://bsys.ca/index.html) | [![NEUROSS]({{ site.url }}{{ site.baseurl }}/images/Neuross-logo-final.png "Nanyang Technological University")](#link) | [![GENESYS]({{ site.url }}{{ site.baseurl }}/images/GENESYS.png "Carleton University")](https://genesysgroup.github.io/)
 BSYS - Concordia University | Neuross - Nanyang Technological University  | GENESYS - Carleton University
 
---- | ---
-[![NTI]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/)
-| NeuroTechIU - Indiana University
-[![NEUROMADS]({{ site.url }}{{ site.baseurl }}/images/neuromads-logo.png "Pompeu Fabra University")](http://neuromads.sitemantic.com/neuromads/)
-
+--- | --- | ---
+[![NTI]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/) | . | [![NEUROMADS]({{ site.url }}{{ site.baseurl }}/images/neuromads-logo.png "Pompeu Fabra University")](http://neuromads.sitemantic.com/neuromads/)
+NeuroTechIU - Indiana University | ! | NeuroMADS
 
 </div>
