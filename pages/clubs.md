@@ -21,11 +21,11 @@ MENTAL - McGill University | MINT - UBC | Maction Potential - McMaster Universit
 
 --- | --- | ---
 [![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/berkeley_logo_outline_txt.png "University of California, Berkeley")](http://neurotechberkeley.org/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/) | [![BrainStormBGU]({{ site.url }}{{ site.baseurl }}/images/BrainStormBGU.png "Ben-Gurion University")](https://www.bengis.org/braintech)
-NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University | BrainStorm BGU
+NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University | BrainStorm BGU - Ben-Gurion University
 
 --- | --- | ---
 [![CRUX]({{ site.url }}{{ site.baseurl }}/images/CruX_UCLA.png "UCLA")](https://www.cruxucla.com/) | [![NAT]({{ site.url }}{{ site.baseurl }}/images/NAT.png "NeurAlbertaTech")](https://sites.google.com/ualberta.ca/neuralbertatech/) | [![NanLab]({{ site.url }}{{ site.baseurl }}/images/NaNLab.png "Nan Lab")](https://iunanl.github.io/nanl/ ) 
-NeurAlbertaTech - University of Alberta | CruX - UCLA | NaN Lab - Innopolis U. (Russia)
+CruX - UCLA | NeurAlbertaTech - University of Alberta | NaN Lab - Innopolis U. (Russia)
 
 </div>
 
