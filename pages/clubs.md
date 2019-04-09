@@ -29,6 +29,14 @@ CruX - UCLA | NeurAlbertaTech - University of Alberta | NaN Lab - Innopolis U. (
 
 </div>
 
+## Newest student clubs
+
+<div class="contributor" markdown="1">
+
+--- | --- | ---
+[![NTOhioState]({{ site.url }}{{ site.baseurl }}/images/NTatOhioState.png "Ohio State University")](http://org.osu.edu/neurotech/) | [![NeurotechUSC]({{ site.url }}{{ site.baseurl }}/images/NeurotechUSC.png "University of Southern California")](http://org.osu.edu/neurotech/) | [![NRAYork]({{ site.url }}{{ site.baseurl }}/images/NRA-York.png "York University")](https://sites.google.com/view/neurologyresearchassociation/ )
+NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neurology Research Association - York University
+
 
 ## Alumni
 
