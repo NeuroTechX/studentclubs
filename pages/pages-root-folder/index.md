@@ -71,5 +71,5 @@ We believe neurotechnology is key to better understanding and to improving who w
 [![NTX SC Competition 2019]({{ site.url }}{{ site.baseurl }}/images/NTXSC-Comp2019.png "NeuroTechX Student Clubs Competition 2019")]({{ site.url }}{{ site.baseurl }}/competition)
 
 <p align="center">
-  <strong>Don't forget to fill the "Intention Form" if you'd like to participate to the competition!</strong>
+  <strong>Interested in sponsoring the competition and supporting this amazing intiative? <a href="https://neurotechx.com/wp-content/uploads/resources/NTX-SC-Sponsorship-Kit-2019.pdf ">Check out our different opportunities.</a> </strong>
 </p>
