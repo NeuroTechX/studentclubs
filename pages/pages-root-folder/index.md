@@ -70,8 +70,6 @@ We believe neurotechnology is key to better understanding and to improving who w
 
 [![NTX SC Competition 2019]({{ site.url }}{{ site.baseurl }}/images/NTXSC-Comp2019.png "NeuroTechX Student Clubs Competition 2019")]({{ site.url }}{{ site.baseurl }}/competition)
 
-[![NTXSC2019_Prizes]({{ site.url }}{{ site.baseurl }}/images/NTXSC2019_Prizes.png "NTXSC2019 Prizes")]({{ site.url }}{{ site.baseurl }}/2019-04-12-student-clubs-2019-competition-prizes) 
-
 <p align="center">
 <strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEe9O9ySptEkRo_5JHrdor_W0HyPHsMkPYoaCB60dZKKNu-A/viewform?usp=sf_link">>>> Submission Form <<<</a>
 </strong>

@@ -9,11 +9,11 @@ tags:
     - Competition
     - 2019
     - Prizes
-    - NTXSC19
+    - NTXSC2019
 header: no
 image:
-    title: NTXSC2019_Prizes.png
-    homepage: NTXSC2019_Prizes.png
+    title: NTXSC2019_Prizes.jpg
+    homepage: NTXSC2019_Prizes.jpg
     thumb: NTXSC2019_Prizes-thumb.jpg
     caption: NTXSC2019_Prizes
 
