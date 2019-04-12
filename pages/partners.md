@@ -18,7 +18,7 @@ OpenBCI | InteraXon | Neurosky
 Mindset | Cognixion | Puzzlebox
 
 --- | --- | ---
-[![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | . | [![Myndlift]({{ site.url }}{{ site.baseurl }}/images/partners/Melomind.png "Melomind")](https://www.melomind.com/)
+[![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | . | [![Melomind]({{ site.url }}{{ site.baseurl }}/images/partners/Melomind.png "Melomind")](https://www.melomind.com/)
 Emotiv |  | Melomind
 
 --- | --- | ---
