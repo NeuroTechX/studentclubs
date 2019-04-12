@@ -14,16 +14,12 @@ header: no
 OpenBCI | InteraXon | Neurosky
 
 --- | --- | ---
-[![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | [![True Impact]({{ site.url }}{{ site.baseurl }}/images/partners/TrueImpact.png "True Impact")](http://www.trueimpact.ca/) | [![Myndlift]({{ site.url }}{{ site.baseurl }}/images/partners/Myndlift.png "Myndlift")](http://www.myndlift.com/)
-Emotiv | True Impact | Myndlift
+[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![Cognixion]({{ site.url }}{{ site.baseurl }}/images/partners/Cognixion.png "Cognixion")](https://www.cognixion.com/) | [![Puzzlebox]({{ site.url }}{{ site.baseurl }}/images/partners/Puzzlebox.png "Puzzlebox")](https://puzzlebox.io/)
+Mindset | Cognixion | Puzzlebox
 
 --- | --- | ---
-[![Looxid Labs]({{ site.url }}{{ site.baseurl }}/images/partners/Looxidlabs.png "Looxid Labs")](http://looxidlabs.com/) | [![Imeka]({{ site.url }}{{ site.baseurl }}/images/partners/imeka.png "Imeka")](https://www.imeka.ca/) | [![Puzzlebox]({{ site.url }}{{ site.baseurl }}/images/partners/Puzzlebox.png "Puzzlebox")](https://puzzlebox.io/)
-Looxid Labs | Imeka | Puzzlebox
-
---- | --- | ---
-[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![Cognixion]({{ site.url }}{{ site.baseurl }}/images/partners/Cognixion.png "Cognixion")](https://www.cognixion.com/) | [![Neurable]({{ site.url }}{{ site.baseurl }}/images/partners/Neurable.png "Neurable")](http://www.neurable.com/)
-Mindset | Cognixion | Neurable
+[![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | . | [![Myndlift]({{ site.url }}{{ site.baseurl }}/images/partners/Melomind.png "Melomind")](https://www.melomind.com/)
+Emotiv |  | Melomind
 
 --- | --- | ---
  | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/ntx_black_1500_NTX_6.png "NeuroTechX")](http://www.NeuroTechX.com) | | 
