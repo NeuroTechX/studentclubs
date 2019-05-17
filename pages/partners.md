@@ -14,11 +14,11 @@ header: no
 OpenBCI | InteraXon | Neurosky
 
 --- | --- | ---
-[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![Cognixion]({{ site.url }}{{ site.baseurl }}/images/partners/Cognixion.png "Cognixion")](https://www.cognixion.com/) | [![Puzzlebox]({{ site.url }}{{ site.baseurl }}/images/partners/Puzzlebox.png "Puzzlebox")](https://puzzlebox.io/)
+[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![Cognixion]({{ site.url }}{{ site.baseurl }}/images/partners/Cognixion.png "Cognixion")](https://www.cognixion.com/) | [![Myndlift]({{ site.url }}{{ site.baseurl }}/images/partners/Myndlift.png "Myndlift")](https://www.myndlift.com/) 
 Mindset | Cognixion | Puzzlebox
 
 --- | --- | ---
-[![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | . | [![Melomind]({{ site.url }}{{ site.baseurl }}/images/partners/Melomind.png "Melomind")](https://www.melomind.com/)
+[![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | [![Puzzlebox]({{ site.url }}{{ site.baseurl }}/images/partners/Puzzlebox.png "Puzzlebox")](https://puzzlebox.io/) | [![Melomind]({{ site.url }}{{ site.baseurl }}/images/partners/Melomind.png "Melomind")](https://www.melomind.com/)
 Emotiv |  | Melomind
 
 --- | --- | ---
