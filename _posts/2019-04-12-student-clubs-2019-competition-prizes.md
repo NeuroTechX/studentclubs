@@ -21,4 +21,4 @@ image:
 
 <!--more-->
 
-Here is the body of the message - TBD.
+Check out the [Competition Results]({{ site.url }}{{ site.baseurl }}/competition/).
