@@ -20,7 +20,7 @@ SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Mo
 MENTAL - McGill University | MINT - UBC | Maction Potential - McMaster University
 
 --- | --- | ---
-[![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/berkeley_logo_outline_txt.png "University of California, Berkeley")](http://neurotechberkeley.org/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/) | [![BrainStormBGU]({{ site.url }}{{ site.baseurl }}/images/BrainStormBGU.png "Ben-Gurion University")](https://www.bengis.org/braintech)
+[![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/NTBerkeley.png "University of California, Berkeley")](https://neurotech.berkeley.edu/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/) | [![BrainStormBGU]({{ site.url }}{{ site.baseurl }}/images/BrainStormBGU.png "Ben-Gurion University")](https://www.bengis.org/braintech)
 NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University | BrainStorm BGU - Ben-Gurion University
 
 --- | --- | ---
