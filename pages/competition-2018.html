@@ -6,10 +6,6 @@ header: no
 permalink: "/competition-2018/"
 ---
 
-<center><button id="buttonOnline" class="button info" onclick="showOnline()">Online competition</button>&nbsp;
-	<button id="buttonDemoDay" class="button disabled" onclick="showDemoDay()">Demo Day</button>&nbsp;
-	<button id="buttonPreviousEditions" class="button disabled" onclick="showPrevious()">Previous Editions</button></center>
-
 <div id="divOnline">
 
 <p>Here are the winners of the 2018 NeuroTechX Student Club Competition.
@@ -126,63 +122,3 @@ permalink: "/competition-2018/"
 <img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/student_icon1.png" alt="Idea icon">
 
 </div>
-
-<div id="divDemoDay" hidden>
-	Unfortunately, there will be no demo day in 2018. Get ready for 2020!
-</div>
-
-<div id="divPreviousEditions" hidden>
-<ul>
-	<li><a href="https://medium.com/neurotechx/ntx-student-clubs-initiative-2fba98b0d082">2016 Edition - NeuroTechX Student Clubs Demo Day</a></li>
-	<li><a href="{{ site.url }}{{ site.baseurl }}/competition-2018/">2017-2018 Edition - NeuroTechX Student Clubs Online Competition</a> <a href="http://bit.ly/NTXSC18">(projects & videos)</a></li>
-	<li><a href="{{ site.url }}{{ site.baseurl }}/competition-2019/">2018-2019 Edition - NeuroTechX Student Clubs Online Competition</a> <a href="http://bit.ly/NTXSC19">(projects & videos)</a></li>
-</ul>
-</div>
-
-
-<script type="text/javascript">
-function showOnline() {
-     var divDD = document.getElementById('divDemoDay');
-     var divOC = document.getElementById('divOnline');
-     var divPE = document.getElementById('divPreviousEditions');
-     var buttonDD = document.getElementById('buttonDemoDay');
-     var buttonOC = document.getElementById('buttonOnline');
-     var buttonPE = document.getElementById('buttonPreviousEditions');
-     divDD.style.display = 'none';
-     divOC.style.display = 'block';
-     divPE.style.display = 'none';
-     buttonDD.className="button disabled";
-     buttonOC.className="button info";
-     buttonPE.className="button disabled";
- }
-
- function showDemoDay() {
-     var divDD = document.getElementById('divDemoDay');
-     var divOC = document.getElementById('divOnline');
-     var divPE = document.getElementById('divPreviousEditions');
-     var buttonDD = document.getElementById('buttonDemoDay');
-     var buttonOC = document.getElementById('buttonOnline');
-     var buttonPE = document.getElementById('buttonPreviousEditions');
-     divDD.style.display = 'block';
-     divOC.style.display = 'none';
-     divPE.style.display = 'none';
-     buttonDD.className="button info";
-     buttonOC.className="button disabled";
-     buttonPE.className="button disabled";
- }
-
- function showPrevious() {
-     var divDD = document.getElementById('divDemoDay');
-     var divOC = document.getElementById('divOnline');
-     var divPE = document.getElementById('divPreviousEditions');
-     var buttonDD = document.getElementById('buttonDemoDay');
-     var buttonOC = document.getElementById('buttonOnline');
-     var buttonPE = document.getElementById('buttonPreviousEditions');
-     divDD.style.display = 'none';
-     divOC.style.display = 'none';
-     divPE.style.display = 'block';
-     buttonDD.className="button disabled";
-     buttonOC.className="button disabled";
-     buttonPE.className="button info";
- }
-</script>
