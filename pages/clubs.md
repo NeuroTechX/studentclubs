@@ -12,31 +12,38 @@ header: no
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![SynapsETS]({{ site.url }}{{ site.baseurl }}/images/synap_ets.png "École de Technologie Supérieure")](http://synapsets.etsmtl.ca/) | [![Polycortex]({{ site.url }}{{ site.baseurl }}/images/poly_cortex.png "Polytechnique de Montréal")](http://polycortex.polymtl.ca/) | [![NeuroTechUofT]({{ site.url }}{{ site.baseurl }}/images/neurotechUofT-light-bg.png "University of Toronto")](http://neurotechuoft.github.io/)
+[![SynapsETS]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapsETS.png "École de Technologie Supérieure")](http://synapsets.etsmtl.ca/) | [![Polycortex]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/PolyCortex.png "Polytechnique de Montréal")](http://polycortex.polymtl.ca/) | [![NeuroTechUofT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUofT.png "University of Toronto")](https://neurotechuoft.com/)
 SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Montréal | NeuroTechUofT - University of Toronto
 
 --- | --- | ---
-[![MENTAL]({{ site.url }}{{ site.baseurl }}/images/MENTAL2.png "McGill University")](http://www.facebook.com/McGillNeurotech) | [![MINT]({{ site.url }}{{ site.baseurl }}/images/ubc_mint.png "University of British Columbia")](https://ubcmint.github.io/) | [![MACTION]({{ site.url }}{{ site.baseurl }}/images/maction_potential_2.jpg "McMaster University")](https://sites.google.com/view/mactionpotential/home)
-MENTAL - McGill University | MINT - UBC | Maction Potential - McMaster University
+[![MENTAL]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/McGillNeuroTech.png "McGill University")](http://www.facebook.com/McGillNeurotech) | [![MINT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/MINT.png "University of British Columbia")](https://ubcmint.github.io/) | [![MACTION]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/MactionPotential.jpg "McMaster University")](https://sites.google.com/view/mactionpotential/home)
+McGill NeuroTech - McGill University | MINT - UBC | Maction Potential - McMaster University
 
 --- | --- | ---
-[![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/NTBerkeley.png "University of California, Berkeley")](https://neurotech.berkeley.edu/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/merlin-logo.png "Queen's University")](http://www.queensneurotech.ca/) | [![BrainStormBGU]({{ site.url }}{{ site.baseurl }}/images/BrainStormBGU.png "Ben-Gurion University")](https://www.bengis.org/braintech)
-NeuroTech Berkeley - University of California, Berkeley | Merlin Neurotech - Queen's University | BrainStorm BGU - Ben-Gurion University
+[![BERKELEY]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTBerkeley.png "University of California, Berkeley")](https://neurotech.berkeley.edu/) | [![MERLIN]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Merlin.png "Queen's University")](http://www.queensneurotech.ca/) | [![BrainStormBGU]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/BrainStormBGU.png "Ben-Gurion University")](https://www.bengis.org/braintech)
+NeuroTech@Berkeley - UC Berkeley | Merlin Neurotech - Queen's University | BrainStorm BGU - Ben-Gurion University
 
 --- | --- | ---
-[![CRUX]({{ site.url }}{{ site.baseurl }}/images/CruX_UCLA.png "UCLA")](https://www.cruxucla.com/) | [![NAT]({{ site.url }}{{ site.baseurl }}/images/NAT.png "NeurAlbertaTech")](https://sites.google.com/ualberta.ca/neuralbertatech/) | [![NanLab]({{ site.url }}{{ site.baseurl }}/images/NaNLab.png "Nan Lab")](https://iunanl.github.io/nanl/ ) 
+[![CRUX]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/CruX_UCLA.png "UCLA")](https://www.cruxucla.com/) | [![NAT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurAlbertaTech.png "NeurAlbertaTech")](https://sites.google.com/ualberta.ca/neuralbertatech/) | [![NanLab]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NaNLab.png "Nan Lab")](https://iunanl.github.io/nanl/ ) 
 CruX - UCLA | NeurAlbertaTech - University of Alberta | NaN Lab - Innopolis U. (Russia)
 
-</div>
+--- | --- | ---
+[![NTOhioState]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTatOhioState.png "Ohio State University")](http://org.osu.edu/neurotech/) | [![NeurotechUSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUSC.png "University of Southern California")](https://www.neurotechusc.org/) | [![NRAYork]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NRA-York.png "York University")](https://sites.google.com/view/neurologyresearchassociation/ )
+NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neurology Research Association - York University
 
 ## Newest student clubs
 
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![NTOhioState]({{ site.url }}{{ site.baseurl }}/images/NTatOhioState.png "Ohio State University")](http://org.osu.edu/neurotech/) | [![NeurotechUSC]({{ site.url }}{{ site.baseurl }}/images/NeurotechUSC.png "University of Southern California")](http://org.osu.edu/neurotech/) | [![NRAYork]({{ site.url }}{{ site.baseurl }}/images/NRA-York.png "York University")](https://sites.google.com/view/neurologyresearchassociation/ )
-NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neurology Research Association - York University
+[![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](https://uiucneurotech.wixsite.com/website) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT-black.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.png "UC Davis")](https://www.facebook.com/groups/davisneuro/ )
+NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - University of Victoria | Neurotech@Davis - UC Davis
 
+--- | --- | ---
+[![NTUCB]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUCB.png "Universidad Catolica Boliviana (UCB)")](https://neurotechx.github.io/studentclubs/clubs/) | [![UWaterloo]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Cortech.png "University of Waterloo")](http://neurotechuw.com/) | [![NEURAPILOT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NEURAPILOT.png "Oregon State University")](https://github.com/neurapilot/Neurapilot )
+Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of Waterloo | NEURAPILOT - Oregon State University
+
+</div>
 
 ## Alumni
 
