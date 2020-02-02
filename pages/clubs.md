@@ -36,7 +36,7 @@ NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neu
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](https://uiucneurotech.wixsite.com/website) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT-black.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.png "UC Davis")](https://www.facebook.com/groups/davisneuro/ )
+[![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](https://uiucneurotech.wixsite.com/website) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT-black.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.jpg "UC Davis")](https://www.facebook.com/groups/davisneuro/ )
 NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - University of Victoria | Neurotech@Davis - UC Davis
 
 --- | --- | ---
@@ -50,11 +50,11 @@ Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of W
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![BSYS]({{ site.url }}{{ site.baseurl }}/images/bsys_concordia.png "Concordia University")](http://bsys.ca/index.html) | [![NEUROSS]({{ site.url }}{{ site.baseurl }}/images/Neuross-logo-final.png "Nanyang Technological University")](#link) | [![GENESYS]({{ site.url }}{{ site.baseurl }}/images/GENESYS.png "Carleton University")](https://genesysgroup.github.io/)
+[![BSYS]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/BSYS.png "Concordia University")](http://bsys.ca/index.html) | [![NEUROSS]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Neuross.png "Nanyang Technological University")](#link) | [![GENESYS]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/GENESYS.png "Carleton University")](https://genesysgroup.github.io/)
 BSYS - Concordia University | Neuross - Nanyang Technological University  | GENESYS - Carleton University
 
 --- | --- | ---
-[![NTI]({{ site.url }}{{ site.baseurl }}/images/ntiulogo.png "Indiana University")](https://neurotechiu.wordpress.com/) |   | [![NEUROMADS]({{ site.url }}{{ site.baseurl }}/images/neuromads-logo.png "Pompeu Fabra University")](http://neuromads.sitemantic.com/neuromads/)
+[![NTI]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/ntiu.png "Indiana University")](https://neurotechiu.wordpress.com/) |   | [![NEUROMADS]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/neuromads.png "Pompeu Fabra University")](http://neuromads.sitemantic.com/neuromads/)
 NeuroTechIU - Indiana University |   | NeuroMADS
 
 </div>
