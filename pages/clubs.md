@@ -36,7 +36,7 @@ NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neu
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](https://uiucneurotech.wixsite.com/website) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT-black.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.jpg "UC Davis")](https://www.facebook.com/groups/davisneuro/ )
+[![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](https://uiucneurotech.wixsite.com/website) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT-black.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.jpg "UC Davis")](http://neurotechdavis.com/ )
 NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - University of Victoria | Neurotech@Davis - UC Davis
 
 --- | --- | ---
