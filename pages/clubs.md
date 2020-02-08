@@ -40,7 +40,7 @@ NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neu
 NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - University of Victoria | Neurotech@Davis - UC Davis
 
 --- | --- | ---
-[![NTUCB]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUCB.png "Universidad Catolica Boliviana (UCB)")](https://neurotechx.github.io/studentclubs/clubs/) | [![UWaterloo]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Cortech.png "University of Waterloo")](http://neurotechuw.com/) | [![NEURAPILOT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NEURAPILOT.png "Oregon State University")](https://github.com/neurapilot/Neurapilot )
+[![NTUCB]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUCB.png "Universidad Catolica Boliviana (UCB)")](http://lpz.ucb.edu.bo/Forms/Investigacion/UIE/Neurotech.aspx ) | [![UWaterloo]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Cortech.png "University of Waterloo")](http://neurotechuw.com/) | [![NEURAPILOT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NEURAPILOT.png "Oregon State University")](https://github.com/neurapilot/Neurapilot )
 Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of Waterloo | NEURAPILOT - Oregon State University
 
 --- | --- | ---
