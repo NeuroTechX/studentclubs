@@ -36,12 +36,16 @@ NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neu
 <div class="contributor" markdown="1">
 
 --- | --- | ---
-[![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](https://uiucneurotech.wixsite.com/website) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT-black.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.jpg "UC Davis")](http://neurotechdavis.com/ )
+[![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](https://uiucneurotech.wixsite.com/website) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT-black.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.png "UC Davis")](http://neurotechdavis.com/ )
 NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - University of Victoria | Neurotech@Davis - UC Davis
 
 --- | --- | ---
 [![NTUCB]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUCB.png "Universidad Catolica Boliviana (UCB)")](https://neurotechx.github.io/studentclubs/clubs/) | [![UWaterloo]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Cortech.png "University of Waterloo")](http://neurotechuw.com/) | [![NEURAPILOT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NEURAPILOT.png "Oregon State University")](https://github.com/neurapilot/Neurapilot )
 Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of Waterloo | NEURAPILOT - Oregon State University
+
+--- | --- | ---
+ | [![UCSD]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUCSD.png "UCSD")](http://neurotechx.ucsd.edu//) | 
+. | NeuroTech@UCSD | .
 
 </div>
 
