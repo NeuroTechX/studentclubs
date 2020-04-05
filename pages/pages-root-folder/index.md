@@ -69,8 +69,15 @@ The NeuroTechX Student Club Competition promotes interdisciplinary collaboration
 We believe neurotechnology is key to better understanding and to improving who we are. We aim to inspire a whole new generation of neuroengineers, who will be equipped to drive the field forward.
 
 
-![Competition]({{ site.url }}{{ site.baseurl }}/images/NTXSC2020_Prizes.png)
+![Competition]({{ site.url }}{{ site.baseurl }}/images/NTXSC2020_Prizes-Postponed.png)
 
+<div style="text-align:center">
+<br />
+<strong>New Date for the NTX Student Club Competition is TDB.</strong>
+<br />
+We will see how the situation progress and work with the student clubs to see what's best.
+
+<!--
 <div style="text-align:center">
 <strong>The NTX Student Club Competition 2019-2020 is happening on April 19th, 2020! #NTXSC20</strong>
 
@@ -79,3 +86,4 @@ We believe neurotechnology is key to better understanding and to improving who w
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaxhwlLR89eAPn3Ms9W8nYgl-0LaxhP2RVrY1GlbPHfuHf4A/viewform?usp=sf_link"> >> Fill this form to participate! << </a>
 </p>
 </div>
+-->
