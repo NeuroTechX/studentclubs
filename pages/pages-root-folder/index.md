@@ -67,22 +67,27 @@ Neurotechnology has never been this accessible before. We want to catalyze the i
 The NeuroTechX Student Club Competition promotes interdisciplinary collaboration, preparing the participants for careers and excellence in science, technology, engineering and mathematics (STEM) through self-learning, knowledge sharing, and practical experimentation.
 
 We believe neurotechnology is key to better understanding and to improving who we are. We aim to inspire a whole new generation of neuroengineers, who will be equipped to drive the field forward.
-
-
-![Competition]({{ site.url }}{{ site.baseurl }}/images/NTXSC2020_Prizes-Postponed.png)
+<br />
 
 <div style="text-align:center">
+<hr>
 <br />
 <strong>New Date for the NTX Student Club Competition is TDB.</strong>
 <br />
 We will see how the situation progress and work with the student clubs to see what's best.
+<br />
+<hr>
+</div>
 
+<br />
+<div style="text-align:center">
 <iframe src="https://www.youtube.com/embed/pX7jzKJHXcQ" 
-    width="560" 
-    height="315"
+    width="600" 
+    height="340"
     frameborder="0" 
     allowfullscreen>
 </iframe>
+</div>
 
 <!--
 <div style="text-align:center">
