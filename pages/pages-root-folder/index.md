@@ -77,6 +77,13 @@ We believe neurotechnology is key to better understanding and to improving who w
 <br />
 We will see how the situation progress and work with the student clubs to see what's best.
 
+<iframe src="https://www.youtube.com/embed/pX7jzKJHXcQ" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
 <!--
 <div style="text-align:center">
 <strong>The NTX Student Club Competition 2019-2020 is happening on April 19th, 2020! #NTXSC20</strong>
