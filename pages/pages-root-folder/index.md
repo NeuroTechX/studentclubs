@@ -72,9 +72,10 @@ We believe neurotechnology is key to better understanding and to improving who w
 <div style="text-align:center">
 <hr>
 <br />
-<strong>New Date for the NTX Student Club Competition is TDB.</strong>
+<h1> Updates on the NTX Student Club Competition Date(s) </h1>
+<strong>The NTX Student Club Competition 2020 will take place in November.</strong>
 <br />
-We will see how the situation progress and work with the student clubs to see what's best.
+<i>* There will be a special edition in 2021 (from Jan to April 2021).</i>
 <br />
 <hr>
 </div>
