@@ -69,14 +69,16 @@ The NeuroTechX Student Club Competition promotes interdisciplinary collaboration
 We believe neurotechnology is key to better understanding and to improving who we are. We aim to inspire a whole new generation of neuroengineers, who will be equipped to drive the field forward.
 <br />
 
+![Competition]({{ site.url }}{{ site.baseurl }}/images/NTXSC2020_Prizes.png)
+
+
 <div style="text-align:center">
 <hr>
 <br />
-<h1> NTX Student Club Competition: November 2020 </h1>
-<strong>More information coming soon, however, you can start aiming for November 2020 for your projects!</strong>
+<h1> NTX Student Club Competition New Date: November 22nd, 2020 </h1>
 <br />
 <br />
-<i>** There will be a special edition in 2021 (from Jan to April 2021) **</i>
+<i>** Also, there will be a special edition in 2021 (from Jan to April 2021) **</i>
 <br />
 <hr>
 </div>

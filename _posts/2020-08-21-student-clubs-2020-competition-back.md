@@ -30,7 +30,7 @@ The format is exactly the same.
 Given that the current situation is "our new normal" we've decided to resume our activities while adapting to this new reality and working all together (with all of you) to come up with the best course of action. We are aware that the situation is not the same at all schools and that some student clubs might feel at as disanvatage. We apologize for this situation and are trying to aim for the best compromises.
 
 
-__In order to reduce the impact on the annual calendar for 2021 and 2022, we will host a Special Edition in 2021. There will be a specific challenge, announced on January 2021 and the competition/submission date will be in April 2021__
+_In order to reduce the impact on the annual calendar for 2021 and 2022, we will host a Special Edition in 2021. There will be a specific challenge, announced on January 2021 and the competition/submission date will be in April 2021_
 
 
 In the meantime, stay safe, healthy and get to work :)
