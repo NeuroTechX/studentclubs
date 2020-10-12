@@ -8,4 +8,4 @@ header: no
 
 | I need information about the Student Club Initiative |
 | :---: |
-| Yannick Roy - yannick [at] neurotechx.com |
+| NTX Student Club Committee - studentclubs [at] neurotechx.com |
