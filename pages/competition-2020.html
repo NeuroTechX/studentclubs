@@ -3,7 +3,7 @@ layout: page-fullwidth
 show_meta: false
 title: "NeuroTechX Student Clubs Competition 2020"
 header: no
-permalink: "/competition/"
+permalink: "/competition-2020/"
 ---
 
 <center><button id="buttonOnline" class="button info" onclick="showOnline()">Online competition</button>&nbsp;
@@ -51,7 +51,7 @@ Here are the winners of the 2020 NeuroTechX Student Club Competition.
 
 <h3>Results - Fixed Challenge</h3>
 <p>
-<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2019/Results/NTXSC20-Results-FixedChallenge.png" alt="Idea icon">
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2020/Results/NTXSC20-Results-FixedChallenge.png" alt="Idea icon">
 </p>
 
 <h3>All Prizes</h3>
@@ -136,63 +136,3 @@ Here are the winners of the 2020 NeuroTechX Student Club Competition.
 <img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/student_icon1.png" alt="Idea icon">
 
 </div>
-
-<div id="divDemoDay" hidden>
-	Unfortunately, there will be no demo day in 2019. Get ready for 2020!
-</div>
-
-<div id="divPreviousEditions" hidden>
-<ul>
-	<li><a href="https://medium.com/neurotechx/ntx-student-clubs-initiative-2fba98b0d082">2016 Edition - NeuroTechX Student Clubs Demo Day</a></li>
-	<li><a href="{{ site.url }}{{ site.baseurl }}/competition-2018/">2017-2018 Edition - NeuroTechX Student Clubs Online Competition</a> <a href="http://bit.ly/NTXSC18">(projects & videos)</a></li>
-	<li><a href="{{ site.url }}{{ site.baseurl }}/competition-2019/">2018-2019 Edition - NeuroTechX Student Clubs Online Competition</a> <a href="http://bit.ly/NTXSC19">(projects & videos)</a></li>
-</ul>
-</div>
-
-
-<script type="text/javascript">
-function showOnline() {
-     var divDD = document.getElementById('divDemoDay');
-     var divOC = document.getElementById('divOnline');
-     var divPE = document.getElementById('divPreviousEditions');
-     var buttonDD = document.getElementById('buttonDemoDay');
-     var buttonOC = document.getElementById('buttonOnline');
-     var buttonPE = document.getElementById('buttonPreviousEditions');
-     divDD.style.display = 'none';
-     divOC.style.display = 'block';
-     divPE.style.display = 'none';
-     buttonDD.className="button disabled";
-     buttonOC.className="button info";
-     buttonPE.className="button disabled";
- }
-
- function showDemoDay() {
-     var divDD = document.getElementById('divDemoDay');
-     var divOC = document.getElementById('divOnline');
-     var divPE = document.getElementById('divPreviousEditions');
-     var buttonDD = document.getElementById('buttonDemoDay');
-     var buttonOC = document.getElementById('buttonOnline');
-     var buttonPE = document.getElementById('buttonPreviousEditions');
-     divDD.style.display = 'block';
-     divOC.style.display = 'none';
-     divPE.style.display = 'none';
-     buttonDD.className="button info";
-     buttonOC.className="button disabled";
-     buttonPE.className="button disabled";
- }
-
- function showPrevious() {
-     var divDD = document.getElementById('divDemoDay');
-     var divOC = document.getElementById('divOnline');
-     var divPE = document.getElementById('divPreviousEditions');
-     var buttonDD = document.getElementById('buttonDemoDay');
-     var buttonOC = document.getElementById('buttonOnline');
-     var buttonPE = document.getElementById('buttonPreviousEditions');
-     divDD.style.display = 'none';
-     divOC.style.display = 'none';
-     divPE.style.display = 'block';
-     buttonDD.className="button disabled";
-     buttonOC.className="button disabled";
-     buttonPE.className="button info";
- }
-</script>

@@ -69,7 +69,8 @@ The NeuroTechX Student Club Competition promotes interdisciplinary collaboration
 We believe neurotechnology is key to better understanding and to improving who we are. We aim to inspire a whole new generation of neuroengineers, who will be equipped to drive the field forward.
 <br />
 
-![Competition]({{ site.url }}{{ site.baseurl }}/images/NTXSC2020_Prizes.png)
+<!--
+![Competition]({{ site.url }}{{ site.baseurl }}/images/2020/NTXSC20_Prizes.png)
 
 
 <div style="text-align:center">
@@ -82,6 +83,54 @@ We believe neurotechnology is key to better understanding and to improving who w
 <br />
 <hr>
 </div>
+-->
+
+<div style="text-align:center">
+	<p>
+		<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2020/NTXSC20-Congrats-LeoMeme.jpg" alt="Congrats">
+	</p>	
+</div>
+
+Here are the winners of the 2020 NeuroTechX Student Club Competition.
+
+<br/>
+
+<h2>Winners</h2>
+<p>
+<ul>
+<li>Open Challenge 1st place: <strong>McGill NeuroTech</strong>, McGill University</li>
+<li>Open Challenge 2nd place: <strong>PolyCortex</strong>, Polytechnique Montreal</li>
+<li>Fixed Challenge 1st place: <strong>MINT</strong>, The University of British Columbia (UBC)</li>
+</ul>
+</p>
+
+<p><b>Links to their amazing projects</b></p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=6IJuLtj3400&list=PL7yYIG1eq9bRWBbc8xcwoRwLu1Dyc7qP0&index=1">McGill NeuroTech (EMGeyboard)</a></li>
+<li><a href="https://www.youtube.com/watch?v=wUkOeFDIFgg&list=PL7yYIG1eq9bRWBbc8xcwoRwLu1Dyc7qP0&index=3">PolyCortex (Polydodo)</a></li>
+<li><a href="https://www.youtube.com/watch?v=6r9mXZGO3QE&list=PL7yYIG1eq9bRWBbc8xcwoRwLu1Dyc7qP0&index=13">MINT (JellyFish & MENTHA)</a></li>
+</ul>
+
+<p><strong>>>> All projects: <a href="http://bit.ly/NTXSC20">http://bit.ly/NTXSC20</a></strong></p>
+
+<br/>
+<p>Congratulations to all participating student clubs! We know that this year was quite unique and challenging for many. We're happy to see that many clubs were able to re-adjust and still work on exciting neurotech projects!</p>
+<br/>
+
+<h3>Results - Open Challenge</h3>
+<p>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2020/NTXSC20-Results-OpenChallenge.png" alt="Idea icon">
+</p>
+
+<h3>Results - Fixed Challenge</h3>
+<p>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2020/Results/NTXSC20-Results-FixedChallenge.png" alt="Idea icon">
+</p>
+
+<h3>Prizes</h3>
+<p>
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/NTXSC20_Prizes.jpg" alt="Idea icon">
+</p>
 
 <br />
 <div style="text-align:center">
