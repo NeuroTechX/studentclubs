@@ -8,14 +8,14 @@ categories:
 tags:
     - Competition
     - 2020
-    - NTXSC2020
+    - NTXSC20
     - COVID19
 header: no
 image:
-    title: NTXSC2020_Prizes.png
-    homepage: NTXSC2020_Prizes.png
-    thumb: NTXSC2020_Prizes.png
-    caption: NTXSC2020_Prizes
+    title: 2020/NTXSC20_Prizes.png
+    homepage: 2020/NTXSC20_Prizes.png
+    thumb: 2020/NTXSC20_Prizes.png
+    caption: NTXSC20_Prizes
 
 ---
 

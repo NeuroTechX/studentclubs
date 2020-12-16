@@ -129,7 +129,7 @@ Here are the winners of the 2020 NeuroTechX Student Club Competition.
 
 <h3>Prizes</h3>
 <br/>
-<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2020/NTXSC20_Prizes.jpg" alt="Idea icon">
+<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2020/NTXSC20_Prizes.png" alt="Idea icon">
 
 
 <br />

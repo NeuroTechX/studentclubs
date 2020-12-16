@@ -8,14 +8,14 @@ categories:
 tags:
     - Competition
     - 2020
-    - NTXSC2020
+    - NTXSC20
     - COVID19
 header: no
 image:
-    title: NTXSC2020_Prizes-Postponed.png
-    homepage: NTXSC2020_Prizes-Postponed.png
-    thumb: NTXSC2020_Prizes-Postponed.png
-    caption: NTXSC2020_Prizes-Postponed
+    title: 2020/NTXSC20_Prizes-Postponed.png
+    homepage: 2020/NTXSC20_Prizes-Postponed.png
+    thumb: 2020/NTXSC20_Prizes-Postponed.png
+    caption: NTXSC20_Prizes-Postponed
 
 ---
 
