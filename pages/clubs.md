@@ -44,8 +44,8 @@ NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - Universit
 Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of Waterloo | NEURAPILOT - Oregon State University
 
 --- | --- | ---
- | [![UCSD]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUCSD.png "UCSD")](http://neurotechx.ucsd.edu/) | [![NTSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroTechSC.png "NTSC")](https://neurotech.ucsc.edu/index.html)
-. | NeuroTech@UCSD | NeuroTechSC - UC Santa Cruz
+ [![UCSD]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUCSD.png "UCSD")](http://neurotechx.ucsd.edu/) | [![NTSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroTechSC.png "NTSC")](https://neurotech.ucsc.edu/index.html) | [![Axon]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/AxonBPGC.png "BITS Pilani")](https://axonbpgc.github.io/)
+NeuroTech@UCSD | NeuroTechSC - UC Santa Cruz | Axon - BITS Pilani, Goa
 
 </div>
 
