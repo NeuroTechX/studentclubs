@@ -31,13 +31,14 @@ CruX - UCLA | NeurAlbertaTech - University of Alberta | NaN Lab - Innopolis U. (
 [![NTOhioState]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTatOhioState.png "Ohio State University")](http://org.osu.edu/neurotech/) | [![NeurotechUSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUSC.png "University of Southern California")](https://www.neurotechusc.org/) | [![NRAYork]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NRA-York.png "York University")](https://sites.google.com/view/neurologyresearchassociation/ )
 NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neurology Research Association - York University
 
-## Newest student clubs
-
-<div class="contributor" markdown="1">
-
 --- | --- | ---
 [![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](http://neurotech.web.illinois.edu/) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.png "UC Davis")](http://neurotechdavis.com/ )
 NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - University of Victoria | Neurotech@Davis - UC Davis
+
+
+## Newest student clubs
+
+<div class="contributor" markdown="1">
 
 --- | --- | ---
 [![NTUCB]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUCB.png "Universidad Catolica Boliviana (UCB)")](http://lpz.ucb.edu.bo/Forms/Investigacion/UIE/Neurotech.aspx ) | [![UWaterloo]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Cortech.png "University of Waterloo")](http://neurotechuw.com/) | [![NEURAPILOT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NEURAPILOT.png "Oregon State University")](https://github.com/neurapilot/Neurapilot )
@@ -46,6 +47,11 @@ Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of W
 --- | --- | ---
  [![UCSD]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUCSD.png "UCSD")](http://neurotechx.ucsd.edu/) | [![NTSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroTechSC.png "NTSC")](https://neurotech.ucsc.edu/index.html) | [![Axon]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/AxonBPGC.png "BITS Pilani")](https://axonbpgc.github.io/)
 NeuroTech@UCSD | NeuroTechSC - UC Santa Cruz | Axon - BITS Pilani, Goa
+
+--- | --- | ---
+[![NTI]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/WashU.png "Washington University in St. Louis")](https://sites.wustl.edu/neurotechx/) |   | 
+WashU - Washington University in St. Louis |   | 
+
 
 </div>
 
