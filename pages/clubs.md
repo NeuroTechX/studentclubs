@@ -50,7 +50,7 @@ NeuroTech@UCSD | NeuroTechSC - UC Santa Cruz | Axon - BITS Pilani, Goa
 
 --- | --- | ---
 [![NTI]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/WashU.png "Washington University in St. Louis")](https://sites.wustl.edu/neurotechx/) |   | 
-WashU - Washington University in St. Louis |   | 
+WashU NeuroTech - Washington U. in St. Louis |   | 
 
 
 </div>
