@@ -49,8 +49,8 @@ Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of W
 NeuroTech@UCSD | NeuroTechSC - UC Santa Cruz | Axon - BITS Pilani, Goa
 
 --- | --- | ---
-[![NTI]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/WashU.png "Washington University in St. Louis")](https://sites.wustl.edu/neurotechx/) | [![NTW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroinformaticsWarsaw.png "Neuroinformatics Student Club - Warsaw")](https://knneuro.fuw.edu.pl/) | 
-WashU NeuroTech - Washington U. in St. Louis | Neuroinformatics Student Club - U. of Warsaw | 
+[![NTI]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/WashU.png "Washington University in St. Louis")](https://sites.wustl.edu/neurotechx/) | [![NTW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroinformaticsWarsaw.png "Neuroinformatics Student Club - Warsaw")](https://knneuro.fuw.edu.pl/) | [![ITBA]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Brainware.png "Instituto Tecnológico de Buenos Aires")](https://brainwareitba.github.io)
+WashU NeuroTech - Washington U. in St. Louis | Neuroinformatics Student Club - U. of Warsaw | Brainware - Instituto Tecnológico de Buenos Aires (ITBA)
 
 
 
