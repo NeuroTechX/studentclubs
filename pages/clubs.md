@@ -35,11 +35,6 @@ NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neu
 [![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](http://neurotech.web.illinois.edu/) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.png "UC Davis")](https://neurotechdavis.org/)
 NeuroTech@UIUC - U. of Illinois at Urbana-Champaign | UVic Neurotech - University of Victoria | Neurotech@Davis - UC Davis
 
-
-## Newest student clubs
-
-<div class="contributor" markdown="1">
-
 --- | --- | ---
 [![NTUCB]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUCB.png "Universidad Catolica Boliviana (UCB)")](https://lpz.ucb.edu.bo/neurotech-ucb/) | [![UWaterloo]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Cortech.png "University of Waterloo")](http://neurotechuw.com/) | [![NEURAPILOT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NEURAPILOT.png "Oregon State University")](https://github.com/neurapilot/Neurapilot )
 Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of Waterloo | NEURAPILOT - Oregon State University
@@ -48,11 +43,18 @@ Neurotech UCB - Universidad Catolica Boliviana (UCB) | Cortech - University of W
  [![UCSD]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUCSD.png "UCSD")](http://neurotechx.ucsd.edu/) | [![NTSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroTechSC.png "NTSC")](https://neurotech.ucsc.edu/index.html) | [![Axon]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/AxonBPGC.png "BITS Pilani")](https://axonbpgc.github.io/)
 NeuroTech@UCSD | NeuroTechSC - UC Santa Cruz | Axon - BITS Pilani, Goa
 
+
+## Newest student clubs
+
+<div class="contributor" markdown="1">
+
 --- | --- | ---
 [![NTI]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/WashU.png "Washington University in St. Louis")](https://sites.wustl.edu/neurotechx/) | [![NTW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroinformaticsWarsaw.png "Neuroinformatics Student Club - Warsaw")](https://knneuro.fuw.edu.pl/) | [![ITBA]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Brainware.png "Instituto Tecnológico de Buenos Aires")](https://brainwareitba.github.io)
 WashU NeuroTech - Washington U. in St. Louis | Neuroinformatics Student Club - U. of Warsaw | Brainware - Instituto Tecnológico de Buenos Aires (ITBA)
 
-
+--- | --- | ---
+ | [![UW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapTechUW.png "Synaptech - UW")](https://synaptechuw.org/) | 
+ | Synaptech - U. of Washington | 
 
 </div>
 
