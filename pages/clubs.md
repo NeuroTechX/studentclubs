@@ -28,8 +28,8 @@ NeuroTech@Berkeley - UC Berkeley | Merlin Neurotech - Queen's University | Brain
 CruX - UCLA | NeurAlbertaTech - University of Alberta | NaN Lab - Innopolis U. (Russia)
 
 --- | --- | ---
-[![NTOhioState]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTatOhioState.png "Ohio State University")](http://org.osu.edu/neurotech/) | [![NeurotechUSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUSC.png "University of Southern California")](https://www.neurotechusc.org/) | [![NRAYork]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NRA-York.png "York University")](https://sites.google.com/view/neurologyresearchassociation/ )
-NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neurology Research Association - York University
+[![NTOhioState]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTatOhioState.png "Ohio State University")](http://org.osu.edu/neurotech/) | [![NeurotechUSC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUSC.png "University of Southern California")](https://www.neurotechusc.org/) | [![NRGYork]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NRG-York.png "York University")](https://www.facebook.com/NRGyorkU)
+NeuroTech at Ohio State | NeurotechUSC - University of Southern California | Neuroscience Research Group at York University
 
 --- | --- | ---
 [![NTUIUC]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NTUIUC.png "UIUC")](http://neurotech.web.illinois.edu/) | [![UVICNT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/UVICNT.png "University of Victoria")](https://uvicneurotech.github.io/) | [![UCDavis]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechDavis.png "UC Davis")](https://neurotechdavis.org/)
