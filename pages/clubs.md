@@ -53,8 +53,8 @@ NeuroTech@UCSD | NeuroTechSC - UC Santa Cruz | Axon - BITS Pilani, Goa
 WashU NeuroTech - Washington U. in St. Louis | Neuroinformatics Student Club - U. of Warsaw | Brainware - Instituto Tecnológico de Buenos Aires (ITBA)
 
 --- | --- | ---
-| [![UW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapTechUW.png "Synaptech - UW")](https://synaptechuw.org/) | 
-| Synaptech - U. of Washington | 
+| [![UW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapTechUW.png "Synaptech - UW")](https://synaptechuw.org/) | [![NCU]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NCU.png "Nicolaus Copernicus University in Toruń")](https://neurotech.umk.pl/pages/main_page/?lang=en)
+| Synaptech - U. of Washington | Neurotechnology Scientific Students Club - NCU (Poland)
 
 </div>
 
