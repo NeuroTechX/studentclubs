@@ -54,7 +54,7 @@ WashU NeuroTech - Washington U. in St. Louis | Neuroinformatics Student Club - U
 
 --- | --- | ---
 | [![UW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapTechUW.png "Synaptech - UW")](https://synaptechuw.org/) | [![NCU]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NCU.png "Nicolaus Copernicus University in Toruń")](https://neurotech.umk.pl/pages/main_page/?lang=en)
-| Synaptech - U. of Washington | Neurotechnology Scientific Students Club - NCU (Poland)
+| Synaptech - U. of Washington | Neurotechtor - NCU (Poland)
 
 </div>
 
