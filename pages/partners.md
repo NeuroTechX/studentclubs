@@ -36,22 +36,18 @@ TBD | Coming Soon! | TBD
 
 ## Previous Sponsors
 
---- | --- | ---
-[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) |  | [![Myndlift]({{ site.url }}{{ site.baseurl }}/images/partners/Myndlift.png "Myndlift")](https://www.myndlift.com/) 
-Mindset | | Myndlift
+--- | --- | --- | ---
+[![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![Myndlift]({{ site.url }}{{ site.baseurl }}/images/partners/Myndlift.png "Myndlift")](https://www.myndlift.com/) | [![InteraXon]({{ site.url }}{{ site.baseurl }}/images/partners/Muse.png "Muse - InteraXon")](http://choosemuse.com/) | [![NeuroSky]({{ site.url }}{{ site.baseurl }}/images/partners/Neurosky.png "NeuroSky")](http://www.neurosky.com)
+Mindset | Myndlift | InteraXon | Neurosky
 
---- | --- | ---
+--- | --- | --- | ---
 [![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | [![Puzzlebox]({{ site.url }}{{ site.baseurl }}/images/partners/Puzzlebox.png "Puzzlebox")](https://puzzlebox.io/) | [![Melomind]({{ site.url }}{{ site.baseurl }}/images/partners/Melomind.png "Melomind")](https://www.melomind.com/)
-Emotiv | PuzzleBox | Melomind
-
---- | --- | ---
- | [![InteraXon]({{ site.url }}{{ site.baseurl }}/images/partners/Muse.png "Muse - InteraXon")](http://choosemuse.com/) | [![NeuroSky]({{ site.url }}{{ site.baseurl }}/images/partners/Neurosky.png "NeuroSky")](http://www.neurosky.com)
- | InteraXon | Neurosky
+Emotiv | PuzzleBox | Melomind | 
 
 
 --- | --- | ---
- | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/ntx_black_1500_NTX_6.png "NeuroTechX")](http://www.NeuroTechX.com) | | 
- | NeuroTechX | | 
+ | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/ntx_black_1500_NTX_6.png "NeuroTechX")](http://www.NeuroTechX.com) | 
+ | NeuroTechX |
 
 </div>
 
