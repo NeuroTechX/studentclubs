@@ -31,7 +31,7 @@ OpenBCI | Cognixion | Neurable
 
 | --- | --- | --- |
 | | [![gtec]({{ site.url }}{{ site.baseurl }}/images/partners/gtec.png "gtec")](https://www.gtec.at/) | | 
-| gtec |  |  |
+| gtec |  | |
 
 
 
@@ -39,24 +39,14 @@ OpenBCI | Cognixion | Neurable
 
 We wouldn't be where we are without the support of these awesome companies supporting NeuroTechX and our Student Clubs Initiative!
 
-["Mindset"](https://www.thinkmindset.com/) | ["Myndlift"](https://www.myndlift.com/) | ["Neurosky"](http://www.neurosky.com) | InteraXon | Emotiv | PuzzleBox | Melomind
-<!--
-| --- | --- | --- |
-| [![Mindset]({{ site.url }}{{ site.baseurl }}/images/partners/Mindset.png "Mindset")](https://www.thinkmindset.com/) | [![Myndlift]({{ site.url }}{{ site.baseurl }}/images/partners/Myndlift.png "Myndlift")](https://www.myndlift.com/) | [![NeuroSky]({{ site.url }}{{ site.baseurl }}/images/partners/Neurosky.png "NeuroSky")](http://www.neurosky.com) |
-| Mindset | Myndlift | Neurosky |
+[InteraXon](http://choosemuse.com/) | [Eno (Mindset)](https://enophone.com/) | [Myndlift](https://www.myndlift.com/) | [Neurosky] (http://www.neurosky.com) | [Emotiv](https://www.emotiv.com/) | [Puzzlebox](https://puzzlebox.io/) | [Melomind](https://www.melomind.com/)  | 
 
-| --- | --- | --- |
-| [![Emotiv]({{ site.url }}{{ site.baseurl }}/images/partners/Emotiv.png "Emotiv")](https://www.emotiv.com/) | [![Puzzlebox]({{ site.url }}{{ site.baseurl }}/images/partners/Puzzlebox.png "Puzzlebox")](https://puzzlebox.io/) | [![Melomind]({{ site.url }}{{ site.baseurl }}/images/partners/Melomind.png "Melomind")](https://www.melomind.com/) |  |
-| Emotiv | PuzzleBox | Melomind |
-
-| --- | --- | --- |
-| | [![InteraXon]({{ site.url }}{{ site.baseurl }}/images/partners/Muse.png "Muse - InteraXon")](http://choosemuse.com/) | |
-| | InteraXon | | 
+<br />
+<br />
 
 | --- | --- | --- |
 | | [![NeuroTechX]({{ site.url }}{{ site.baseurl }}/images/partners/ntx_black_1500_NTX_6.png "NeuroTechX")](http://www.NeuroTechX.com) | |
 | | NeuroTechX | | 
--->
 </div>
 
 <br />
