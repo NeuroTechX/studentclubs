@@ -30,8 +30,8 @@ OpenBCI | Cognixion | Neurable
 ## 2021-2022 Supporters
 
 | --- | --- | --- |
-| | [![gtec]({{ site.url }}{{ site.baseurl }}/images/partners/gtec.png "gtec")](https://www.gtec.at/) | | 
-| gtec |  | |
+| [![gtec]({{ site.url }}{{ site.baseurl }}/images/partners/gtec.png "gtec")](https://www.gtec.at/) |  | [![BrainProducts]({{ site.url }}{{ site.baseurl }}/images/partners/BrainProducts.gif "gtec")](https://www.brainproducts.com/) | 
+| gtec |  | BrainProducts |
 
 
 
