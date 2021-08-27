@@ -1,7 +1,7 @@
 # NeurotechX Student Clubs Initiative
 ### [https://neurotechx.github.io/studentclubs/](https://neurotechx.github.io/studentclubs/)
 
-NeurotechEDU is an open-source project designed to promote collaboration and user-generated content towards emerging Neurotechnology practices.
+NTX SC is an open-source project designed to promote collaboration and user-generated content towards emerging Neurotechnology practices.
 The idea is that if you are not finding something that should be part of our resources or lessons you can go ahead make it, and upload it to our page.
 
 This project is built with the help of:
