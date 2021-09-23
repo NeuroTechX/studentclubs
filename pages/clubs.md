@@ -52,9 +52,9 @@ header: no
 [![NTI]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/WashU.png "Washington University in St. Louis")](https://sites.wustl.edu/neurotechx/) | [![NTW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeuroinformaticsWarsaw.png "Neuroinformatics Student Club - Warsaw")](https://knneuro.fuw.edu.pl/) | [![ITBA]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/Brainware.png "Instituto Tecnológico de Buenos Aires")](https://brainwareitba.github.io)
 WashU NeuroTech - Washington U. in St. Louis | Neuroinformatics Student Club - U. of Warsaw | Brainware - Instituto Tecnológico de Buenos Aires (ITBA)
 
---- | --- | ---
-| [![UW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapTechUW.png "Synaptech - UW")](https://synaptechuw.org/) | [![NCU]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NCU.png "Nicolaus Copernicus University in Toruń")](https://neurotech.umk.pl/pages/main_page/?lang=en)
-| Synaptech - U. of Washington | Neurotechtor - NCU (Poland)
+| --- | --- | --- |
+| [![UW]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapTechUW.png "Synaptech - UW")](https://synaptechuw.org/) | [![NCU]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NCU.png "Nicolaus Copernicus University in Toruń")](https://neurotech.umk.pl/pages/main_page/?lang=en) | [![Waterloo]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/WatoLink.png "WATOLINK - Waterloo")](https://www.watolink.com/) | 
+| Synaptech - U. of Washington | Neurotechtor - NCU (Poland) | WATOLINK - Waterloo |
 
 </div>
 
