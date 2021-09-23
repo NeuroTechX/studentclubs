@@ -87,18 +87,15 @@ We believe neurotechnology is key to better understanding and to improving who w
 
 <div style="text-align:center">
 	<p>
-		<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/2020/NTXSC20-Congrats-LeoMeme.jpg" alt="Congrats">
-	</p>	
-</div>
-
-<div style="text-align:center">
-	<p>
 		<img style="margin: 0 auto; display: block; max-width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/NTXSC-Comp2021_temp.png" alt="NTXSC22">
 	</p>	
-</div>
+
+<br /><br />
 
 <a href="https://docs.google.com/document/d/1vvV8xXl9qIk3tamZLFtp6ODZFCGc4foXpERsVglyGiE/edit#"> 2021-2022 Competition Details (high-level, more coming soon!)</a><br>
+
 <br /><br />
+</div>
 
 
 <br />
