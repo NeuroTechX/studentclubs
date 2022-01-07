@@ -61,7 +61,7 @@ homepage: true
 ---
 # This page is deprecated
 
-Please use https://neurotechx.github.io/ntx-sc/#/
+Please use <https://neurotechx.github.io/ntx-sc/#/>
 
 <!--- 
 # NeuroTechX Student Clubs
