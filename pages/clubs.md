@@ -7,6 +7,11 @@ permalink: "/clubs/"
 header: no
 ---
 
+# This page is deprecated
+
+Please use <https://neurotechx.github.io/ntx-sc/#/>
+
+<!--- 
 ## NTX Student Clubs Participating to the 2019 Competition
 
 <div class="contributor" markdown="1">
