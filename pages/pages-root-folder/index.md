@@ -59,7 +59,7 @@ permalink: /index.html
 #
 homepage: true
 ---
-# This page is deprecated
+# This Website is deprecated
 
 Please use <https://neurotechx.github.io/ntx-sc/#/>
 
