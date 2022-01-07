@@ -59,7 +59,11 @@ permalink: /index.html
 #
 homepage: true
 ---
+# This page is deprecated
 
+Please use https://neurotechx.github.io/ntx-sc/#/
+
+<!--- 
 # NeuroTechX Student Clubs
 
 Neurotechnology has never been this accessible before. We want to catalyze the interest and involvement of skilled students by providing them with a precise goal to work towards and the resources to get there.
@@ -68,6 +72,7 @@ The NeuroTechX Student Club Competition promotes interdisciplinary collaboration
 
 We believe neurotechnology is key to better understanding and to improving who we are. We aim to inspire a whole new generation of neuroengineers, who will be equipped to drive the field forward.
 <br />
+--->
 
 <!--
 ![Competition]({{ site.url }}{{ site.baseurl }}/images/2020/NTXSC20_Prizes.png)
@@ -83,7 +88,7 @@ We believe neurotechnology is key to better understanding and to improving who w
 <br />
 <hr>
 </div>
--->
+
 
 <div style="text-align:center">
 	<p>
@@ -107,6 +112,7 @@ We believe neurotechnology is key to better understanding and to improving who w
     allowfullscreen>
 </iframe>
 </div>
+-->
 
 <!--
 <div style="text-align:center">
