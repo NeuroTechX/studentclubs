@@ -5,4 +5,8 @@ sitemap: false
 permalink: /about/
 redirect_to:  "https://neurotechx.github.io/ntx-sc/#/"
 ---
-This page redirects to the New student clubs page.
+
+
+# This Website is deprecated
+
+Please use <https://neurotechx.github.io/ntx-sc/#/>
