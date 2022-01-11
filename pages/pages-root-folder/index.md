@@ -63,7 +63,7 @@ homepage: false
 -->
 # This Website is deprecated
 
-Please use <https://neurotechx.github.io/ntx-sc/#/partners>
+Please use <https://neurotechx.github.io/ntx-sc/#/>
 
 <!--- 
 # NeuroTechX Student Clubs
