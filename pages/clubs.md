@@ -76,3 +76,5 @@ WashU NeuroTech - Washington U. in St. Louis | Neuroinformatics Student Club - U
 NeuroTechIU - Indiana University | Cortech - University of Waterloo | NeuroMADS |
 
 </div>
+
+-->
