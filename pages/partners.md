@@ -1,3 +1,4 @@
+<!---
 ---
 layout: page-fullwidth
 show_meta: false
@@ -6,6 +7,14 @@ teaser: "Awesome partners supporting neurotech innovation!"
 permalink: "/partners/"
 header: no
 ---
+--->
+
+# This Website is deprecated
+
+Please use <https://neurotechx.github.io/ntx-sc/#/partners>
+
+<!-- 
+
 
 <div class="contributor" markdown="1">
 
@@ -54,3 +63,5 @@ We wouldn't be where we are without the support of these awesome companies suppo
 <p>
 If you would like to support this amazing initiative and partner with us, please contact <strong>yannick [at] neurotechx.com</strong>
 </p>
+
+ -->
