@@ -1,13 +1,11 @@
-<!---
+
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Partners"
-teaser: "Awesome partners supporting neurotech innovation!"
 permalink: "/partners/"
 header: no
 ---
---->
+
 
 # This Website is deprecated
 
