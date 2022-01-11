@@ -1,3 +1,4 @@
+<!--- 
 ---
 #
 # Use the widgets beneath and the content will be
@@ -59,6 +60,7 @@ permalink: /index.html
 #
 homepage: false
 ---
+-->
 # This Website is deprecated
 
 Please use <https://neurotechx.github.io/ntx-sc/#/partners>
