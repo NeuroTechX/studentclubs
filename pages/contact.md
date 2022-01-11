@@ -1,12 +1,10 @@
-<!---
+
 ---
 layout: page-fullwidth
 title: "Contact"
-meta_title: "Contact and use our contact form"
-permalink: "/contact/"
 header: no
 ---
---->
+
 
 # This Website is deprecated
 
