@@ -11,11 +11,10 @@ header: no
 
 Please use <https://neurotechx.github.io/ntx-sc/#/clubs>
 
-
+<!---
 ## NTX Student Clubs Participating to the 2019 Competition
 
 <div class="contributor" markdown="1">
-
 | --- | --- | --- |
 [![SynapsETS]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/SynapsETS.png "École de Technologie Supérieure")](http://synapsets.etsmtl.ca/) | [![Polycortex]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/PolyCortex.png "Polytechnique de Montréal")](http://polycortex.polymtl.ca/) | [![NeuroTechUofT]({{ site.url }}{{ site.baseurl }}/images/SC-Logos/NeurotechUofT.png "University of Toronto")](https://neurotechuoft.com/)
 | SynapsETS - École de Technologie Supérieure | Polycortex - Polytechnique de Montréal | NeuroTechUofT - University of Toronto |
