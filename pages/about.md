@@ -3,7 +3,7 @@ layout: page-fullwidth
 show_meta: false
 title: ""
 teaser: ""
-permalink: "/about/"
+permalink: "/"
 header: no
 ---
 
