@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Clubs"
-teaser: "NeuroTechX Affiliated Student Clubs."
+title: ""
+teaser: ""
 permalink: "/clubs/"
 header: no
 ---
