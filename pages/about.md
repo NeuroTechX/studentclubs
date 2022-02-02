@@ -1,12 +1,13 @@
 ---
-title: "A website that doesn't exit"
-layout: redirect
-sitemap: false
-permalink: /about/
-redirect_to:  "https://neurotechx.github.io/ntx-sc/#/"
+layout: page-fullwidth
+show_meta: false
+title: ""
+teaser: ""
+permalink: "/about/"
+header: no
 ---
-
 
 # This Website is deprecated
 
 Please use <https://neurotechx.github.io/ntx-sc/#/>
+
