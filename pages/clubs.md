@@ -9,7 +9,7 @@ header: no
 
 # This Website is deprecated
 
-Please use <https://neurotechx.github.io/ntx-sc/#/clubs>
+Please use <https://neurotechx.github.io/ntx-sc/#/start>
 
 <!---
 ## NTX Student Clubs Participating to the 2019 Competition
