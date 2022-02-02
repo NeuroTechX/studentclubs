@@ -1,14 +1,15 @@
-
 ---
 layout: page-fullwidth
-title: "Contact"
+show_meta: false
+title: ""
+teaser: ""
+permalink: "/contact/"
 header: no
 ---
 
-
 # This Website is deprecated
 
-Please use <https://neurotechx.github.io/ntx-sc/#/>
+Please use <https://neurotechx.github.io/ntx-sc/#/clubs>
 
 <!---
 
