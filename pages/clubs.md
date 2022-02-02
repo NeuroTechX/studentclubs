@@ -11,7 +11,7 @@ header: no
 
 Please use <https://neurotechx.github.io/ntx-sc/#/clubs>
 
-<!--- 
+
 ## NTX Student Clubs Participating to the 2019 Competition
 
 <div class="contributor" markdown="1">
